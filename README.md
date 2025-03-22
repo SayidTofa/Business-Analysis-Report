@@ -1,3 +1,18 @@
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Business Objectives](#business-objectives)
+3. [Data Collection & Methodology](#data-collection--methodology)
+4. [Market Analysis](#market-analysis)
+   - [Industry Overview](#industry-overview)
+   - [Competitor Analysis](#competitor-analysis)
+5. [Financial Analysis](#financial-analysis)
+   - [Revenue Trends](#revenue-trends)
+   - [Profit Margins](#profit-margins)
+6. [Key Insights & Findings](#key-insights--findings)
+7. [Recommendations](#recommendations)
+8. [Conclusion](#conclusion)
+9. [Appendices](#appendices)
+
 # Business-Analysis-Report
 This sales dashboard tracks key metrics like total sales, income, quantity, and customer distribution. The time-series chart shows peak sales in 2021, followed by a decline. Regional performance highlights the West as the top market, while category insights indicate Clothing and Furniture lead in sales.
 Filters for year, gender, and category enable data exploration. While the dashboard is visually effective, adding trend forecasts, customer segmentation, and anomaly detection could improve strategic decision-making.
