@@ -1,0 +1,1161 @@
+Transaction_ID,Date,Customer_Name,Gender,Age,Income,Category,Region,Sales_Amount,Quantity
+0ee1dae6-0c8b-4b85-9e5e-6b69867d188a,17/07/2022,Nicholas Sherman,Female,28,70172,Entertainment,South,599.1,7
+a4c50a70-c28a-422b-af9b-7b26d2c76d06,06/04/2023,Robert Davis,Female,28,111207,Electronics,East,67.6,4
+b53b3e07-e064-480b-85f4-0e5c3ece5414,27/11/2023,Kerry Reed,Male,22,55736,Electronics,North,932.03,8
+b9e82138-676a-442b-8810-9149a568eb07,14/11/2024,Erik Huerta,Male,36,72545,Entertainment,East,67.88,2
+9c2e19b7-1599-4778-9f36-a5ce9c72e191,29/03/2021,Steven Obrien,Female,69,141100,Groceris,West,217.54,3
+d86a7af5-1330-4a51-81df-34d9aeaa1423,19/03/2021,Amy Alvarez,Female,32,45239,Electronics,West,857.25,2
+6c0a9466-c418-454b-950f-c2c954efca81,05/08/2023,Caleb Reyes,Female,63,60651,Health & Beauty,Central,505.64,3
+d49d7d27-bfa3-40ee-af11-f9b3b9b45177,03/08/2024,Sarah Martinez,Male,31,29598,Clothing,South,630.88,2
+7bdf6000-d898-41c8-b199-cb67a506ab4e,29/09/2021,Dr. James Whitehead PhD,Female,64,116174,Health & Beauty,North,428.3,8
+b55ac7cf-0d90-4c5c-8675-4fb64539558d,29/09/2021,Erica Ibarra,Female,46,104287,Entertainment,Central,108.03,2
+f2e2f06d-432a-49d1-99d7-f955b1cf0f43,23/05/2024,Amanda Hicks,Male,23,134793,Funiture,West,849.22,1
+d574ff17-c0bf-4aa0-8e4b-7a72fca73290,02/03/2021,Robert Fernandez,Male,29,85836,Clothing,North,812.48,7
+ba88296e-ef38-4a96-beab-910c63595c8b,03/11/2023,Michael Rose,Female,51,64268,Electronics,North,372.73,5
+228dcb54-99d3-4140-b902-708996b8715e,22/10/2022,Anne Wade,Female,26,56827,Funiture,North,309.42,7
+ba485b6a-443d-40fa-8b0f-6e12e578d027,09/02/2020,Jennifer Roach,Male,51,92032,Entertainment,West,830.08,9
+777129d8-6cd4-4176-82af-ac4bee00c029,19/10/2023,Brandy Miller,Male,54,48946,Electronics,South,408.65,9
+12a27351-183e-4328-b3e8-b1f741eb7026,26/06/2023,Ricky Yang,Female,31,73955,Electronics,Central,724.4,8
+a6d77c6b-4b3f-446b-85ab-1d243aced928,01/01/2023,Paula Hernandez,Female,63,117152,Electronics,Central,380.21,6
+9e6ef509-211e-4de9-9a22-4ad794157ee1,14/08/2024,Elizabeth Macdonald,Female,67,107827,Health & Beauty,West,262.26,7
+a667fb77-849b-48b6-8e1c-1f8af87e7d9d,08/06/2021,Jessica Rodgers,Male,46,49752,Funiture,East,889.53,1
+ec25e224-3e43-4c6f-97a6-64b49c78ae4e,20/12/2023,Tina Sheppard,Female,25,133345,Electronics,South,295.7,4
+58a92aaa-7dc1-49d8-b4ef-6d5d7c88d80e,09/09/2020,Tiffany Bernard,Male,25,68682,Electronics,East,595.1,8
+7c666717-de41-4e18-8eed-c95b2ba61ae9,25/12/2024,Brittany Livingston,Female,52,30152,Electronics,West,382.52,5
+1d647c8c-1848-4789-a840-16bd6edb53b0,27/06/2021,Colton Orr,Male,33,120462,Clothing,West,622.67,3
+6fca96d0-ff0b-4d32-897f-f8cdf59eb182,22/06/2020,Thomas Ryan,Male,19,143570,Clothing,Central,628.93,6
+2be3b009-a1c9-42a3-9a68-9a905efb0ce3,05/01/2022,Kaitlyn Martin,Male,69,25173,Entertainment,West,145.63,1
+7d907bb7-1fd6-4fb6-b4e4-8bf24359a1aa,17/09/2024,Craig Williams,Male,23,101259,Health & Beauty,North,982.46,4
+bd3c24dc-260d-4b9b-b655-ceff400bc427,10/09/2022,Monica Colon,Female,43,74609,Entertainment,Central,291.35,7
+53f8ac7b-41fa-4ea7-b99f-2912bacdf1a5,09/12/2020,Kim Webb,Female,36,41363,Clothing,West,44.94,3
+3da1f145-a23c-41dd-b44c-6934ff2ed5b0,27/05/2024,Alexander Brown,Male,56,38087,Clothing,South,459.25,7
+c42351fb-56ff-4206-aaae-1276fd9a97bf,24/05/2021,Jacob Zuniga,Male,27,133042,Health & Beauty,South,811.09,3
+fdf7d485-9281-49bd-82e2-e773d8c4a1ae,31/08/2021,Jill Medina,Male,36,87799,Funiture,North,1804.64,8
+120db64b-9606-4e24-b6f5-b0a323d05c3c,16/07/2023,Pamela Mcguire,Female,21,75001,Funiture,West,704.63,2
+8af250b3-b141-43aa-9f4f-e169145fe68d,18/10/2023,Melissa Glenn,Female,47,135530,Entertainment,East,421.53,5
+53738847-61eb-455d-98d2-655f7afcf546,21/04/2023,Amanda Crawford,Female,69,59930,Entertainment,West,281.07,4
+093b887c-836b-4c21-96fc-d0b84ce3fb49,07/10/2021,Patricia Wilcox,Female,62,56267,Electronics,South,136.78,5
+3497b23a-37e6-4c77-ad25-57d93ec73d99,14/01/2020,Scott Moss,Male,48,85568,Clothing,Central,247.71,1
+d46d673c-1175-4cf6-b33c-d9812431f941,06/05/2022,Tiffany Taylor,Male,43,53571,Electronics,West,107.3,4
+c918f9d7-1276-4ab0-8a06-4a9ff868b2e3,12/12/2023,Stephanie Moreno,Female,58,66263,Electronics,West,120.08,4
+75361151-0284-4a9e-bde3-5b7c1fcdb040,09/05/2020,Steven Jones,Male,56,45832,Health & Beauty,Central,380.74,6
+e4d8efe8-d38e-4302-ba49-4d991b8da386,02/06/2024,Austin Peters,Male,22,72852,Funiture,South,752.47,2
+07e3b59b-bc06-40ca-a0fe-b6b2d4dd0863,13/12/2022,Brandon Thomas,Male,20,104782,Entertainment,North,807.21,6
+61ae8aba-3390-4a4b-833e-880a89f1d347,14/11/2023,Jacob Johnson,Female,46,109136,Electronics,East,106.76,1
+59a08d35-a9ea-467d-8c39-40188d37da24,26/06/2022,Paul Stewart,Female,69,25658,Clothing,South,992.65,3
+44e4244b-e6f3-43ba-8423-dc93e9f93128,08/06/2024,Hailey Singleton,Male,35,52763,Electronics,North,991.7,4
+f51fba78-7a9d-457d-ad7a-51f46b6627b6,04/03/2023,Kelly Whitney,Female,55,114128,Funiture,Central,871.41,7
+0c44b92c-a680-4621-9568-11eb48a9ac6e,11/03/2020,Amanda Nelson,Male,41,122366,Entertainment,North,403.33,4
+75dc58b9-03d7-4d0a-bb1b-d4f2bdc27a92,04/04/2022,Anna Hernandez,Male,31,142851,Funiture,North,845.27,2
+db0ec1a3-8395-4d15-8019-5e392241fb9f,03/10/2024,Tiffany Carter,Female,51,30085,Electronics,North,182.87,2
+8b4fc744-89d1-4883-a29a-927f4a5bb7c0,03/07/2022,Thomas Bryant,Female,45,87945,Health & Beauty,East,910.5,6
+5a2189a5-fb11-4ea6-80d4-2ecc570f9c5e,18/01/2021,Luis Anderson,Female,42,69109,Clothing,Central,633.75,3
+02fc3bb0-81e0-4d0d-acb0-6e8f133530d6,14/04/2024,Sonya Harris,Female,39,77853,Entertainment,Central,148.9,2
+b4068d9a-fa71-4235-9a3b-52eda76cf819,09/08/2023,Karen Davis,Male,28,60254,Entertainment,Central,698.01,8
+c73004ab-66ab-4a45-a90b-f6e3f8503feb,28/02/2022,Tammy Lopez,Female,22,92747,Groceris,East,710.9,6
+be32ef0e-8ac2-4fd8-88b5-00b724ec4dfa,21/03/2020,Anthony Goodman,Female,44,43977,Electronics,East,55.41,4
+d69d08b8-1ca5-4fd8-83d3-30e92ab46cbe,02/03/2021,Michael White,Female,63,108640,Entertainment,South,142.6,9
+ea519d97-3095-44fc-93b8-3f068093d168,07/10/2020,Dr. Brandon Trevino,Female,28,122893,Electronics,East,951.18,5
+a91cae84-54ea-4735-9fad-5af012b91e9b,09/02/2022,Michael Hess,Female,64,85995,Clothing,South,901.77,2
+b41a16f2-cd1b-41b5-8143-76e1a383bc89,21/03/2020,Jacqueline Oliver,Male,33,113192,Funiture,South,908.15,7
+939052fd-ae21-49af-9d66-6cc96f5f9d02,29/12/2021,Angela Thompson,Male,58,144761,Entertainment,South,395.93,2
+ee6b3bfb-57c6-4e96-8f69-4c9957ebf401,14/05/2022,Aimee Mills,Male,36,82820,Health & Beauty,Central,323.09,8
+6263fe65-1771-49db-befb-467709144155,11/11/2022,Mark Lopez,Female,33,52954,Funiture,East,675.19,4
+714cabc5-5b9b-4c8a-a4b9-24bd2b5c1dc9,09/11/2024,Patrick Mcclure,Male,62,88895,Groceris,North,330.96,5
+c054d3c8-8482-461c-9f87-980c2a71e01b,22/11/2020,Michele Owens,Male,68,82547,Funiture,North,938.72,1
+8acdf7c3-ada6-4232-9701-01450749817a,07/02/2020,Michael Bishop,Male,24,116354,Clothing,East,529.69,3
+3eba1d84-4961-4a09-81f9-57adc39205df,21/10/2024,Lisa Rodriguez,Female,60,92309,Entertainment,North,255.01,6
+cb10442d-d76d-45ca-a7ad-1d49a172b101,24/06/2024,Madison Porter,Female,55,37169,Groceris,North,192.11,6
+7c1d8c0f-8591-416c-8924-405555cc2d74,25/05/2020,Stephen Berg,Male,27,29168,Entertainment,East,651.7,4
+b6e288aa-fd73-4985-8b0b-dbcb8cd694af,11/05/2024,Suzanne Day,Female,40,110787,Electronics,West,653.86,3
+30db9ebc-c22f-44b0-bc6e-3e579d59f37f,07/10/2023,Laura Black,Female,59,109498,Clothing,North,93,1
+fb9e1c79-7cdc-4d53-831e-fb4899d1b7ce,09/01/2020,Andrea Campbell,Male,67,91524,Electronics,South,993.53,3
+5d155c53-cb39-4d1d-8af0-50681823356f,25/02/2022,Tristan Crosby,Female,64,73330,Clothing,South,337.78,3
+82cf8f75-44cc-4ca9-b5b4-f3e6f9dae058,28/11/2022,Tricia Rose,Male,46,122289,Funiture,South,221.05,3
+06f5db7e-e927-484f-8f2c-b93edc067bf5,21/10/2024,Kendra Brown,Female,53,38048,Entertainment,East,492.48,6
+3daa703a-7621-4459-b81a-ebde9d7256c4,15/07/2024,Aaron Wilson,Female,25,90755,Health & Beauty,West,747.55,6
+0303c310-f901-4dc0-a1a5-685c91b71da2,28/10/2024,Steve Taylor,Male,33,139157,Health & Beauty,Central,478.72,8
+c2e101a7-ad1f-485a-b34e-540116218722,16/05/2022,Tiffany Robinson,Female,32,145111,Clothing,West,890.63,7
+d707fcb5-eb20-4418-b2e6-50b883f69aee,26/10/2021,Matthew Archer,Female,30,144009,Groceris,West,12.28,4
+3cec115c-1be5-4ce2-b428-4cef160b1142,20/01/2022,Angela Ochoa,Male,65,30539,Entertainment,Central,917.64,8
+ff5f1fc2-26ee-4d8f-bd29-158dbbb044b1,05/06/2022,Charles Jones,Male,66,92594,Entertainment,East,213.14,8
+d0c6f98a-c7c0-4c16-b9d9-9169d4c02acc,30/06/2021,Dana Thomas,Male,18,69958,Electronics,East,926.52,9
+4be99192-ed4d-4f4a-a652-78b0238ab218,23/07/2020,Sarah Hogan,Male,62,75692,Health & Beauty,North,685.34,4
+666f3b8e-e33c-402e-8a6e-7689309228b7,19/12/2020,David Kemp,Female,57,119043,Funiture,South,910.8,5
+a70a3a25-40a2-4ba3-b11b-b525ac1d79a3,12/12/2024,Maria Clarke,Female,48,147516,Groceris,North,2691.78,6
+ed6c9388-22cb-4153-85e7-6bc8b88a51c4,24/09/2024,Leonard Rasmussen,Female,22,110533,Funiture,Central,338.62,1
+7c2b58a2-f420-43a5-b06a-562353eb705d,28/11/2022,George Sutton,Female,55,134789,Funiture,East,610.43,6
+54c23c6d-1683-4371-b295-c3ef8c289fa7,29/01/2023,Edgar Hensley,Male,30,90103,Funiture,North,39.62,1
+1331f959-ecfc-487a-8e53-0cc338105e47,03/07/2021,Christopher Keith,Female,36,74171,Clothing,Central,6228.72,1
+4e8ff1d0-ddac-4f6c-ad86-75409fc75fc8,12/07/2024,Thomas Moore,Female,69,25046,Health & Beauty,West,803.18,2
+a4057ccf-8291-480f-b0e5-a3df8aae752d,15/11/2021,Samantha Kelly,Female,32,75317,Funiture,North,341.79,2
+9d34c80b-a834-407e-a697-fd74153b4c61,07/09/2023,Johnny Lopez,Male,51,34932,Clothing,South,457.85,6
+70a2de40-2280-47b8-a617-06b8b3bbc8ae,16/09/2020,Melissa Jones,Male,25,95767,Electronics,East,516.39,4
+a03b043c-b6f6-48ee-9aab-c5da8bcbfee2,19/05/2021,Kim Moon,Male,42,92469,Health & Beauty,East,66.73,3
+0ba8ce31-380e-43c2-8492-616a7e0dd1ce,25/08/2020,Stephanie Johnson,Female,42,89417,Electronics,South,716.73,8
+1e340159-39c5-437d-b3a2-ca5684b2851f,30/11/2021,Benjamin Kirk,Male,40,72393,Electronics,South,239.45,3
+910a28b6-f739-4d30-ae1f-10efd253232b,22/06/2020,Briana Matthews,Male,57,71684,Entertainment,Central,915.37,1
+6d474371-00b8-43e5-b7f8-82ed8fbbc902,19/06/2020,Kim Nguyen,Male,34,44101,Funiture,West,902.28,9
+4d6e20a1-c6c4-4b46-91b4-af13f8c52925,07/10/2021,Jeff Bell,Female,22,36094,Funiture,Central,860.71,2
+5a8ba51a-9bd2-463f-9408-d21bce8e32be,08/01/2021,Jonathan Moore,Male,62,36740,Funiture,West,618.19,7
+63dac3bf-1281-4677-8c87-0f8fdbe29700,13/05/2020,John Franco,Male,69,138037,Electronics,West,10.47,6
+eecdd410-d575-4d4e-a9d8-3737b6e94be2,10/04/2021,Christopher Garcia,Male,53,47818,Clothing,South,363.82,6
+ec4df40f-89fb-496e-883e-c38e5b8e6c56,05/03/2024,Jonathan Atkinson,Male,58,131380,Funiture,North,697.05,1
+c381f619-5b8f-4860-964b-617b97d22db6,23/06/2021,Christina Ramirez,Female,42,129350,Electronics,East,116.59,1
+e9677188-4c59-4dd9-9813-ef1898902f2c,13/05/2020,Kimberly Cruz,Male,69,135616,Groceris,Central,167.09,6
+e6c7a875-e380-410b-a546-438f1eaea60f,01/02/2020,Susan Irwin,Male,63,46871,Clothing,North,16.03,7
+400f6d91-09dc-4a7e-8399-b7b368f91a1a,19/11/2021,Kathleen Fritz,Female,38,113000,Clothing,Central,70.8,5
+c3c19ebd-8c91-418c-911c-316bd494e9b8,03/09/2022,Steven Underwood,Female,62,115230,Health & Beauty,South,887.22,5
+1380c882-ce1a-407b-80fd-25afb468026c,25/01/2022,David Vaughan,Male,19,61569,Entertainment,West,665.78,8
+0d8404a2-4126-4f04-8949-f827090640b7,08/12/2020,Kevin Perez MD,Male,27,117841,Health & Beauty,East,652.55,2
+3379dbf7-3dee-4e93-9fc5-6d97f407214d,27/02/2022,Wesley Boyd,Female,68,45778,Entertainment,East,684.84,4
+71397c16-f2eb-4b67-8dc2-cf854f7e78df,25/10/2022,Billy Sanchez,Female,58,91643,Funiture,Central,891.71,2
+91dde44c-ce40-456e-b486-9332a2cc392a,29/10/2022,Cindy White,Male,53,66376,Clothing,Central,669.98,5
+7e278a8f-321e-41db-9b4e-da7f20458ade,04/04/2024,Steven Fernandez,Male,48,132699,Funiture,West,947.93,7
+eeff0731-f7e6-4e3c-842f-f8f14e2130fb,22/02/2024,Cesar Wheeler,Male,65,89048,Health & Beauty,North,515.16,8
+a754915f-40b3-475e-a9de-ab8ae6bcfa91,28/06/2023,Lisa Palmer MD,Male,48,78796,Groceris,North,818.06,4
+c50d2fc3-f2aa-4998-b24e-d3c73a49919c,14/05/2021,Michael Stephens,Female,66,111532,Groceris,West,942.39,5
+60ee0e9a-f4af-4cce-b244-d573ce441ebb,14/11/2024,Michael Chapman,Female,24,127731,Entertainment,North,993.24,4
+7213dd5d-9998-443e-9c00-da0564da3ba0,27/07/2020,Sean Sawyer,Female,45,110777,Funiture,North,789.62,4
+15142aa3-4207-4c5b-8fc6-a105a6342661,24/01/2024,April Hill,Female,63,46905,Health & Beauty,Central,596.87,8
+705e3085-3910-4589-8729-498ee38f533e,29/11/2023,Tina Hale,Female,21,28462,Groceris,Central,464.66,7
+fb317734-7db3-4c9c-b33b-a13749266515,29/11/2021,Paul Williams,Female,67,147612,Health & Beauty,East,990.81,7
+b2b4112e-583d-483d-8e8b-66b054637ca5,16/10/2020,Evan Vance,Male,38,35520,Groceris,North,471.77,7
+8d17b557-eee5-414e-aaad-70bf72609e19,09/10/2022,Frank Reed,Female,20,61730,Funiture,Central,831.13,5
+9ff0c734-8cfd-4f17-af69-1482d00f9a1a,15/04/2023,Michael Dyer,Male,19,30919,Entertainment,East,282.3,3
+1f3eb393-78c7-4b3a-a165-772aabd8d73d,25/04/2024,Brian Wilson,Male,19,26299,Groceris,West,569.55,6
+f19be7fd-4a36-466d-a44d-6e4f71c4989e,19/06/2020,Gregory Curtis,Female,32,86070,Groceris,South,394.31,8
+22e5e8c5-bc08-4bd7-a0bd-14769f855c1b,06/01/2021,Jennifer Smith,Male,59,60573,Groceris,East,241.22,8
+6c739a79-50cd-4666-aa1c-3339d5992055,24/04/2023,Sara Callahan,Male,23,30252,Groceris,South,475.7,9
+3b5709b6-fee9-4d2d-babf-93e793daf20d,06/01/2024,Ryan Wagner,Female,54,70372,Electronics,Central,394.68,6
+7f52e127-341e-4c13-818f-1a197739c966,23/07/2021,Hannah Scott,Male,25,59395,Clothing,Central,94.39,9
+1b2539cb-a34e-4aae-8e20-28f67b616557,05/10/2024,Terri Gregory,Female,66,78599,Clothing,North,716.48,6
+1fd5d52e-0e81-4da5-8f0d-a10b26a22027,04/08/2023,Donald Brooks,Female,46,143059,Funiture,West,939.6,3
+66e442c4-5981-418a-a86b-f723a572a747,13/08/2022,Tyrone Wood,Female,25,121707,Health & Beauty,East,456.04,9
+0eea5fb7-c6d2-4ae7-b117-db2fef810ada,16/07/2021,Steven Stevens,Female,36,47075,Clothing,West,997.55,7
+ea6f1249-dbc7-45f2-98c7-3ba80bfcee95,13/02/2023,Gary Nelson,Female,45,125824,Entertainment,East,305.72,4
+5f960993-63e6-4d8c-9e6d-dc780ce2b155,07/02/2021,William Mckinney,Male,28,41163,Groceris,North,149.4,3
+0b94cfeb-7fae-4218-8b57-6ce3861adc60,02/10/2021,Tonya Gross,Male,44,59407,Funiture,West,490.71,7
+852d5c2c-3f38-4309-bb45-e1afaa48aae9,06/10/2022,Tyler Anderson,Male,23,121618,Funiture,North,213.01,2
+ce51dcc9-8ebd-41a5-8101-7f3d31953586,04/12/2020,Gregory Willis,Male,52,94429,Clothing,South,531.69,4
+f87a4169-6e5d-44a5-bbaa-1fbf7504ffbc,23/03/2023,Jeffrey Carson,Female,36,97865,Health & Beauty,West,177.42,1
+3a437356-61e9-46fd-ab9f-cea979625707,29/11/2020,James Benjamin,Female,67,76981,Groceris,East,563.3,9
+a4f6aef9-3c0b-428e-b192-642e2b398cba,19/08/2020,Danielle Stone,Male,24,91692,Clothing,South,456.61,7
+28be319d-d278-4ed0-8fc3-90cbb47ef1ca,30/10/2022,Douglas Montes,Male,20,66002,Health & Beauty,East,657.82,4
+12d3ce89-ca1b-48d6-a2e3-3fdc405f845b,03/03/2021,Andrew Sanchez,Male,66,48110,Health & Beauty,West,770.53,4
+ce334ce8-3e49-49ba-9040-213a45b83a6b,25/10/2024,Jeffery Braun,Male,61,50063,Health & Beauty,East,666.41,5
+a3e0f8ad-9b2a-4d99-b7f3-55d00dfc7317,20/01/2024,Anthony Sosa,Male,24,93109,Funiture,West,897.32,2
+7647e6cc-579d-4603-af03-8f9d6cca84ed,02/03/2024,Holly Carrillo,Male,51,60424,Electronics,East,211.77,3
+53cdaf8f-a41a-4bcf-9da3-ec1609a7098b,15/06/2023,William Hampton,Male,48,32173,Groceris,East,764.64,2
+3ff1844e-3529-4bdf-ba60-6d9ed3a22627,26/04/2020,Darrell Adams,Male,45,139850,Health & Beauty,Central,744.02,4
+6b70a5a8-6eb5-4552-af05-02abb2818d93,18/09/2024,Jill Williams,Female,54,83476,Funiture,Central,297.1,5
+b5b41cd9-f208-42da-8073-9d012147d81a,17/11/2020,Robert Huff,Male,19,83273,Funiture,Central,505.64,8
+c2913bea-e350-4fcb-81b9-fba6a02451ed,11/03/2023,Ronald Elliott,Female,49,33198,Entertainment,East,305.15,9
+7ffabb55-7857-400a-b2c9-f8cfa8ba0864,14/01/2022,Mary Martin,Female,19,66984,Electronics,South,253.82,2
+d0a9b961-8b85-4941-8cb5-c03394ff3383,06/11/2024,Amanda Young,Female,54,131969,Funiture,West,414.99,3
+d35dcdb7-55e2-4b5a-ad5c-7e1df6d807e0,27/06/2024,Molly Small,Female,65,80210,Clothing,South,432.18,9
+5680b415-a914-4157-9c7a-24469a3debf1,06/06/2022,Eric Reilly,Male,56,98808,Clothing,West,874.97,6
+b437e756-f19b-4e28-ae27-3860c8ba7a63,13/01/2021,Kim Acevedo,Female,52,139357,Clothing,East,426.81,8
+183c3cc0-a437-4387-9827-f162e4dd6a02,07/09/2023,Joseph West,Female,64,133100,Health & Beauty,Central,210.25,5
+ff8e6fd2-9d2a-4295-82a9-cd6aec5735a5,18/04/2022,Mark Stewart,Female,50,33994,Health & Beauty,North,339.19,7
+ce14ef1f-890c-4656-8f7f-d74602be27dd,06/09/2023,Antonio Robertson DVM,Male,60,30497,Entertainment,East,444.21,9
+00e179d0-b896-407d-8593-8d1e4c54fb80,04/09/2024,Robert Jones,Female,36,103264,Health & Beauty,East,36.34,7
+98c069f6-69b1-4fd6-95a6-c793a57fa67c,30/01/2020,Danielle Reyes,Male,59,145788,Funiture,South,268.47,2
+2f526d6c-54a1-4d4e-821f-c29df0628c4c,03/07/2021,Lisa Sanders,Male,62,101606,Funiture,South,950.16,9
+f5563c79-7e5b-4cd0-a538-47e9a661f75b,21/11/2024,Blake Marks,Male,39,25729,Electronics,North,472.39,5
+36ef53d6-88b5-4c2f-ac21-3a263192ee39,21/03/2023,Jamie Cooper,Female,35,148628,Groceris,West,159.47,6
+b6849797-d607-4c69-b8cb-96b4edadf849,03/05/2022,Stacy Munoz,Male,25,125340,Funiture,South,365.35,8
+c2256f0d-a78b-4838-aec6-1b9bba5df483,18/07/2023,Brian Morgan,Male,22,26035,Funiture,West,708.81,6
+937b223a-ba37-4c08-9996-7c292ad4d329,25/02/2024,Kyle Gray,Female,35,148412,Funiture,East,557.72,8
+b46661fa-b486-41fd-947c-0e65f014fdee,11/01/2024,Robert Humphrey,Male,59,40810,Entertainment,Central,347.93,2
+133bbd52-a7de-4de1-98e0-e10a47d20540,15/08/2021,Eric Perez,Female,66,51547,Entertainment,East,620.72,8
+f96d60b3-4703-4b18-94ba-b1dc78bfb628,26/01/2022,Sheila Garcia,Male,40,127523,Groceris,Central,843.87,9
+d83739bc-86b9-406e-b8ef-63f411d5bad4,17/02/2021,Andrew Fields DDS,Male,36,78109,Clothing,South,831.54,1
+aad8f6df-5d1b-49a6-99e6-51b4a1442570,01/01/2023,Haley Weber,Male,57,95192,Entertainment,Central,161.24,4
+aa1e8ed2-51f6-477f-a2db-d32c3a3c7ce6,15/08/2021,Daniel Campos,Female,33,120518,Entertainment,West,985.84,3
+8c3ba875-fcc3-4ffb-a3ad-85781f772c32,28/07/2021,Tamara George,Male,19,115969,Groceris,Central,25.55,5
+12326f8b-2989-4567-9b97-d0e75e9743c7,11/01/2021,James Gardner,Male,64,98668,Funiture,North,822.49,6
+1c69caaf-f4a7-467b-a246-d2199ddcbbda,09/03/2023,Keith Dodson,Female,56,87332,Funiture,Central,260.62,6
+da33b2eb-bf68-44d5-a9ce-dfaddb78c784,29/02/2020,Marissa Frazier,Female,32,30060,Funiture,East,157.84,8
+02b67bc3-ec18-406b-9538-d9a61e01bf65,21/07/2020,Cassandra Ryan,Male,52,116509,Electronics,West,48.98,7
+50f36582-0097-4a8f-92bf-24382a235bff,25/01/2024,Melissa Moses,Female,50,34145,Entertainment,North,519.08,4
+a7de72ee-b2e8-47d7-95a2-6726842a9090,17/10/2023,Bill Thompson,Female,23,38194,Clothing,East,496.8,7
+3d92a26d-2015-45b6-94c6-09f585c4a7eb,31/07/2020,Terry Petty,Female,68,38102,Health & Beauty,South,256.04,3
+4a92be8a-4679-49e8-a380-5ec03355fc83,22/11/2022,Dr. Darlene Hughes,Female,24,42996,Entertainment,West,413.22,8
+891f2362-fe00-46b8-a396-6083485c74bd,04/01/2020,Michael White,Female,34,78916,Entertainment,Central,876.48,2
+bf15a654-db90-4ff6-b1c8-c5bec66f0238,26/10/2021,Noah Brown,Female,56,77315,Clothing,South,451.95,8
+223898de-888e-40ae-963b-fc4652464921,08/01/2024,Amy Hernandez,Female,63,66541,Health & Beauty,North,643.31,9
+2e944a3d-9eb6-4561-8732-21cb72b68040,27/03/2023,Leslie Landry,Male,40,56292,Groceris,South,598.73,1
+ed614016-c2f7-4450-bdee-78e6897611e7,02/02/2020,Rhonda Anderson,Male,68,44559,Groceris,South,508.37,7
+f14823ea-7584-41be-84fa-3aa9660f7c11,08/04/2021,Daniel Roberts,Male,26,130896,Entertainment,South,105.26,9
+2833b7a7-d29a-4bd7-8048-9932e2571782,24/07/2024,Eric Ponce,Female,20,90024,Electronics,North,847.36,8
+368e0f2b-dd4f-4354-bef5-2523957d2208,20/05/2020,Daniel Moore,Male,25,75232,Groceris,West,802.24,5
+c6f46c18-2383-49a8-b4d6-8f62023a0f67,29/03/2022,David Singleton,Female,38,30296,Entertainment,South,578.09,5
+be24e083-d8b6-4ec2-a0a1-295ffba081a8,20/12/2024,Natasha Hudson,Female,49,89845,Funiture,West,109.84,5
+41b1e15c-70b9-4ef9-a48c-c568c88355e3,01/01/2022,Lisa Price,Female,27,93560,Groceris,East,434.78,1
+721d971c-aa7e-4491-917d-619162de545e,13/05/2020,Ashlee Franklin,Female,35,114869,Health & Beauty,Central,284.17,2
+bd12b49a-89a1-4e9d-a9ef-0a84ccfb480d,30/07/2021,Michael Mcguire,Male,50,64021,Groceris,West,563.61,1
+b087a5cb-4d99-48c6-9a14-ad92f1201ab0,18/09/2022,James Andrews,Female,51,141733,Funiture,Central,279.34,1
+61ef851f-b3b9-4d0a-a896-3f39cb3b71a6,03/10/2020,Tiffany Glover,Female,70,84150,Funiture,North,846.81,9
+b5ec28b5-8585-4066-b66d-80e681afe775,17/03/2024,Kathleen Hubbard,Female,62,65401,Clothing,Central,27.51,7
+d151fc6a-aee2-4e40-b868-1348273560ae,07/02/2023,Frank Fitzgerald,Female,36,48379,Electronics,Central,74.63,8
+dee8ffcb-9a10-4c9d-86b4-485ab5171585,20/04/2022,Sherry Jones,Female,47,37572,Groceris,South,677.77,5
+0548b8b4-a885-4e04-ab1f-fe3415c7a895,01/09/2022,Kimberly Jenkins,Male,43,148955,Funiture,Central,119.92,5
+180c7a9b-37b7-4c52-a80d-9ebecf50c97c,03/08/2020,Brittany Edwards,Female,30,42818,Clothing,West,3263.55,1
+128b4f1e-8073-4c11-8698-3c88707079fe,12/08/2022,Anthony Bryant,Female,59,37636,Entertainment,West,92.22,6
+84e5a014-103f-4cb9-b399-e306abc1df3d,06/08/2020,Kevin Jones,Male,36,127562,Electronics,North,984.4,9
+efd6d6e9-459f-4f01-80d1-9b34aabc81f6,11/04/2023,Timothy Cannon,Female,56,135078,Electronics,East,154.91,5
+00c55919-79da-45aa-a374-346fe56ce4e6,24/06/2021,Whitney Williams,Male,58,38353,Electronics,Central,100.69,6
+3613c933-514d-4868-80d7-8851a031b8cd,21/06/2024,Jeffrey Delgado,Male,40,119698,Electronics,East,650.6,4
+ec6c803c-a1c3-4ce2-9594-5e0ee9af8a88,30/01/2023,Dr. Nicole Nelson,Female,36,67822,Health & Beauty,West,20.67,1
+f30f21fc-5cbd-46d3-b93a-402ef5edaa8d,12/02/2024,Heather Pena,Female,61,85498,Clothing,North,554.35,4
+11981807-5faa-4478-8fc3-2df945083478,04/11/2023,Allison Hardin PhD,Male,66,95452,Groceris,West,290.46,9
+213e573d-b2a7-4c57-9a96-851477eacca1,31/05/2020,Amanda Foster,Male,58,121295,Electronics,West,738.93,5
+01b633e1-26a8-43bd-af72-1f3404284421,13/07/2022,Samuel Macias,Female,26,70585,Electronics,South,64.17,6
+c78ec4a3-2143-4914-b05f-3eab5d41a739,30/12/2020,John Jackson,Female,36,132827,Electronics,East,14.5,4
+5704cef8-e7b0-436e-bfb3-650b3ac9d133,06/10/2022,Mr. Joshua Hernandez,Male,34,96789,Electronics,North,613.87,4
+4ba2badd-946b-4acb-a65b-3b08602ad124,26/05/2022,Caroline Castillo,Female,21,42520,Entertainment,South,205.07,5
+b6f34939-9863-40bc-899d-b5098929f690,31/05/2020,Gregory Mack,Female,37,123608,Entertainment,South,451.53,1
+eed4094d-54c0-4546-8e66-989b863431b6,13/09/2021,Kathleen Le,Male,36,117950,Funiture,Central,544.3,5
+b307fa29-a2c1-423a-910e-0d627f23ece6,19/05/2021,Abigail Best,Female,38,125193,Electronics,East,120.51,7
+c1014d98-3afa-4efb-9680-a91ea802e5de,12/01/2023,Wanda Brown,Female,61,111613,Electronics,East,345.32,2
+ccc9a629-839a-454f-95c4-ce5d6a241445,25/11/2020,Gerald Massey,Female,26,33502,Electronics,East,289.6,8
+6ae79c03-919c-49a9-b996-e03a96c5e872,18/12/2020,Stacy Holmes,Female,19,131045,Funiture,West,528.23,7
+7c996cee-5921-4ca5-95be-219b3ba6170a,24/09/2023,Donald Moran,Male,41,87273,Health & Beauty,East,141.08,7
+533e5cee-fbfe-40e7-a029-dcd801015e91,30/06/2021,Steven Ashley,Female,49,69924,Funiture,Central,482.46,6
+ff5b0e32-4c43-439b-a1f9-bd9c8228f787,18/08/2021,Tyler Davis,Female,63,133980,Entertainment,West,145.21,3
+b6f80dbf-e495-4e8c-a50c-57566ecc37fc,07/06/2020,Andrea Stone,Female,56,132589,Electronics,West,916.61,4
+697a7ef2-b773-4515-b36e-a2b6ed24fbf0,22/03/2024,James Cox,Male,36,112329,Entertainment,South,528.52,2
+cc6dd194-0a1a-4886-ab1e-08a4c296d33d,07/11/2020,Christopher Duncan,Female,35,96646,Clothing,East,153.79,4
+b336c945-61e8-4bcd-888e-8fcaeb2ece2e,02/02/2022,Randy Rice,Female,26,87178,Electronics,East,211.82,6
+c02629b9-400c-479a-ac16-83b71a0c630c,02/05/2020,Kellie Doyle,Male,25,29084,Electronics,East,829.5,9
+0b7ba189-e25c-47f9-8ea9-d0fd3578f3a8,23/12/2023,Mikayla Schmidt,Male,47,87355,Entertainment,West,526.35,7
+df0b72e2-be05-4ec0-ab2c-22699ae533d9,03/02/2021,Michael Wilson,Male,61,100861,Entertainment,South,894.87,6
+426b15fc-f049-434e-ae95-4f47c7169023,06/10/2021,Allen Taylor,Female,57,59116,Health & Beauty,North,25.75,6
+3f206de8-8b1b-4f97-8133-14fa0baafd5f,05/12/2023,Evelyn West,Male,53,145651,Entertainment,West,159.84,8
+14acf254-b56c-4a94-8967-fe8c1349c3bb,15/10/2020,James Ortiz,Male,21,136718,Health & Beauty,North,242.66,7
+9548a6b1-796f-4ec3-8af4-6f6bde7dbc0c,19/11/2023,Krista Haas,Male,66,84083,Entertainment,West,255.87,4
+0e962540-e5a5-49e2-bc22-73289deeaa90,10/12/2021,Anthony Le,Male,68,131283,Funiture,East,195.89,4
+dc6ae3f2-1a41-4176-96d5-ff9443d4f469,20/09/2023,Roger Mcbride,Female,60,122168,Health & Beauty,West,414.37,2
+f460c39c-92ec-437e-8bdb-f05ac4a12b4b,24/06/2022,Ashley Brown,Female,62,92308,Clothing,West,602.59,2
+dbbe0be5-db0d-44a4-94d3-f7ee10f07680,05/02/2022,Kyle Greene,Female,38,94276,Groceris,Central,557.16,4
+318d47c1-27ab-4fe8-b9ca-53d8416e42cb,04/07/2022,Jennifer Brown,Female,45,109336,Electronics,South,736.68,8
+0d8ce4e3-1125-4f7b-85d7-420979594e31,25/05/2020,William Robinson,Male,48,106648,Health & Beauty,South,924.78,5
+9fd63a13-0765-402a-a3fc-649536084fbc,27/05/2024,Valerie Phillips,Female,31,64799,Groceris,East,28.16,4
+6feb4e16-cd41-4c4c-997d-f89bbc3d24aa,28/09/2024,Heather Lewis,Female,64,80542,Funiture,Central,659.13,6
+4b0acadc-112e-42a1-a6b9-10ab89970a20,13/06/2024,Denise Mccoy,Female,20,47283,Groceris,West,978.56,1
+9b11e9e6-6722-4c05-8314-b91dd8291d39,12/06/2024,Alexandra Ali,Male,65,114470,Clothing,Central,977.18,4
+7b2a9c65-1554-4394-9e64-b9a536b30382,03/04/2024,Jose Villa,Female,30,119982,Entertainment,West,826.01,4
+0af49471-1d46-4a4d-baf1-6a376235f207,23/06/2021,Karen Allen MD,Female,62,115982,Entertainment,North,110.86,1
+3013cdc5-93df-4153-aaf8-78406c392216,30/07/2023,Amy Orr,Female,59,107216,Electronics,East,82.74,4
+39cf4701-1e21-465b-92f1-8d447a101077,07/08/2022,Lynn Lindsey,Male,50,61203,Groceris,Central,859.06,9
+f9e649ca-ac15-4a6a-96b7-94046f610203,10/06/2020,Richard Castro,Female,60,87317,Entertainment,South,610.51,1
+f2fc4684-1a4e-4896-9db7-b03647eb4c05,19/06/2021,Susan Rowe,Female,44,83687,Entertainment,North,715.79,6
+21d9e0ce-a493-419f-9c06-b9833067cd24,24/02/2020,Brittany Rodgers,Female,33,66823,Clothing,West,124.67,9
+8d7550aa-8504-4f49-8c9c-9cd06b931c43,01/09/2020,Tanya Webb,Male,70,114101,Entertainment,East,13.43,3
+894e53f5-8783-4800-b260-917f16383b72,27/01/2020,Mark King,Male,69,25990,Electronics,East,34.6,6
+1f0f40fc-c0c2-4167-b2df-808788ec0195,02/12/2023,Joseph Walls,Male,67,55784,Clothing,West,17649.1,6
+42dc922f-6a18-4888-90c2-29907864ca49,05/01/2024,Ivan Quinn,Female,37,46934,Electronics,North,910.26,7
+c4911935-8173-4067-820b-1ba9c1616ef0,04/03/2023,Ryan Green,Male,60,25079,Electronics,Central,791.7,6
+95a57133-3ccc-4733-b493-7a9c8765f471,04/10/2020,Matthew Hunter,Female,68,29211,Funiture,West,272.36,2
+08f62558-086d-49bc-b173-8a39888afa86,02/05/2024,Whitney Brooks,Female,48,103871,Clothing,West,577.71,3
+939646d9-7037-462d-9ffb-0265869ddf7f,31/01/2021,Patricia Brown,Female,54,148090,Electronics,East,680.81,5
+2e663748-fadc-49e3-ab0f-724fd65f8380,26/01/2023,Wesley Williams,Female,63,79283,Groceris,North,62.81,4
+45871d62-d97e-4a7d-8c19-6080860d6c48,23/01/2024,Michael Conrad,Male,19,134020,Groceris,West,954.28,8
+f8b32fbe-2601-4c25-b3b9-27b2c606785e,31/12/2021,Tracy Miller,Female,65,100350,Health & Beauty,Central,202.61,2
+9747810a-b9ed-4bca-9f07-a85018b2316f,22/02/2022,Ronald Murphy,Male,38,72157,Electronics,South,899.97,2
+9231d79f-b095-4894-9f18-11e91c550b13,19/04/2022,Jeremy Nguyen,Male,66,46837,Groceris,East,90.9,9
+77db8c19-a050-4590-8aec-66bb40233c70,17/11/2021,Shawn Campbell,Female,67,57450,Funiture,East,888.25,5
+e1d9d057-e435-4af8-929a-d325b175c91a,01/10/2024,Rachel Alvarez,Female,66,71695,Entertainment,West,858.53,6
+43455d0e-214a-4e3d-8897-1e8b780af651,21/03/2020,Christopher Huff,Male,66,68127,Entertainment,East,441.06,6
+bd7cff9e-7d7b-421b-808b-e14047e4bbd3,06/11/2024,Anita Clark,Female,29,128738,Funiture,Central,578.17,4
+9253d563-5fa5-4190-8133-478ba11ee9bd,13/04/2023,Richard Hendrix,Male,33,82909,Clothing,East,26.29,5
+890ba613-a766-4e6b-bddd-4264fcda5a51,02/11/2022,Dean Hughes,Male,64,39035,Electronics,East,631.68,4
+acd13ed6-6e50-4d3d-9d31-4c01e2adb686,26/11/2024,Sierra Myers,Female,21,51973,Groceris,Central,865.89,5
+acd5bd9e-19f3-49ae-9fc4-da0c2e51c0f8,18/02/2022,Dustin Rios,Female,56,95396,Funiture,Central,119.88,1
+49a33cdf-1d30-44dc-abe6-4a624a9619cb,17/11/2023,Paul Baldwin,Female,46,119016,Entertainment,West,251.1,2
+f923d189-fd0a-42b1-9a1e-298d3b644372,26/11/2021,Alyssa Marsh,Male,50,93203,Funiture,East,95.82,6
+362cdce4-4a03-40d8-ac9a-9bfbf3587dfc,29/02/2020,Angelica Woodward,Male,48,49891,Entertainment,South,14287.04,3
+380958d9-4062-439b-ae59-050df145b94b,25/05/2024,Carolyn White,Female,31,136248,Health & Beauty,East,183.59,9
+ccae82c2-23a0-463e-aa08-801272f26952,27/11/2024,Derek Smith,Female,40,117742,Electronics,East,429.07,7
+573491e8-156f-4f28-9358-fd5964b68ef5,27/11/2024,Karen Russell,Male,37,95352,Entertainment,East,788.95,5
+665eb777-305f-4fea-bbbc-551d9eb2990c,03/03/2023,Amy Carroll,Male,27,73446,Clothing,Central,412.4,3
+80620b07-837a-4759-b5f7-4e0dd594e6d6,11/01/2023,Ivan Hawkins,Female,31,120505,Entertainment,South,7769.6,3
+dca2d909-626b-4856-9fad-1392e155c4c5,18/03/2021,Peter Barry DDS,Female,34,141505,Entertainment,East,829.4,8
+f40817ef-5db0-4792-bcce-3fb22cef407b,28/06/2020,Stephanie Davis,Female,33,135773,Funiture,North,178.75,5
+98b3022f-f737-4bd2-961f-997070e3dc99,15/05/2024,Sarah Bautista,Female,60,110907,Clothing,Central,602.38,1
+d64098b2-7410-4abc-b15d-aa351999805b,24/07/2021,William Flores,Male,40,128542,Clothing,West,131.61,4
+2b313eae-1de7-4029-baf9-eb3ac2ef4551,01/03/2023,Ashley Campbell,Male,70,148876,Clothing,West,735.44,7
+eee2ab0d-9f4b-4cdd-99cc-62cef00cf8ab,04/03/2020,Wendy Johnson,Female,35,128585,Groceris,Central,90.92,7
+467409e5-1fd1-4c1f-ada4-8b4423735029,27/05/2022,Matthew Haynes,Male,37,106267,Funiture,West,436.83,9
+676fd8ad-79aa-4a33-9836-51b4391847e7,02/09/2020,Steve Mercer,Female,60,34806,Funiture,North,863.5,7
+47ec376c-53f5-4894-8803-532e7f4289c6,06/05/2020,Amy Jimenez,Male,66,132322,Clothing,South,875,9
+fc03c264-0ad8-4cfb-ab9f-a07f6aac53d3,10/10/2023,Ariel Pearson,Male,26,149097,Groceris,Central,571.7,9
+0f75bd19-f42e-4b4c-9dd0-d371c155eee4,18/08/2021,Thomas Frank,Female,35,63775,Groceris,West,204.84,9
+daf18d92-11fe-44eb-8db2-4303eaa68c8f,20/06/2022,Rachel Wilcox,Female,34,79122,Clothing,North,967.27,4
+fa35eb35-e42d-4b1d-b86f-f0268022dc36,30/09/2021,Leslie Price,Female,43,77245,Clothing,South,300.51,4
+133c9db1-e6d7-4e80-812c-4d0269f0936b,04/03/2021,Victor Lowery,Female,38,96047,Health & Beauty,North,562.18,1
+edc996df-2608-42f8-a3e5-40c1a4a580ce,25/07/2021,Brandon Hanna,Female,66,59463,Entertainment,West,94.5,8
+b509599a-3ad1-44a5-bb30-6a5b61abd751,02/10/2022,Gina Mora,Male,39,33078,Groceris,East,86.04,7
+8dc383fa-e112-4fc5-ae81-a4ff9bedb8d8,12/10/2022,Ryan Jarvis,Male,58,139977,Clothing,West,707.76,3
+0ad0d8cd-a6d2-43d3-9f31-f76853bbdb9c,26/07/2024,Brian Cooper,Female,51,107128,Entertainment,West,389.22,6
+b52f8c57-d41c-4db4-abd0-6ee1c07a1b24,18/11/2023,Brandon Hart,Male,41,43067,Groceris,East,47.78,1
+ebac49a0-64fa-4040-9495-559ad815f68b,16/08/2022,Brittany Young,Female,27,54212,Electronics,West,751.91,3
+3ba43c89-8dd4-4ea7-806d-40395edbd2ba,22/04/2023,Johnny Johnson DVM,Male,41,67874,Entertainment,East,157.08,7
+7ceebe9c-81d5-4484-9ea5-96724163cf89,11/09/2023,David Cummings,Male,62,70100,Groceris,North,559.82,8
+35b1cf50-7d1d-4499-9ff5-b0979761fcd1,12/11/2024,Joanne Singleton,Female,25,121957,Funiture,North,960.1,8
+50f31599-74d4-44a8-8cfe-9f7a599a7dff,23/12/2022,Cynthia Cohen,Female,41,27908,Groceris,South,455.11,2
+457ed3b4-cb1c-41a4-b484-99606671193e,20/01/2022,Michael Robinson,Male,49,132494,Health & Beauty,Central,252.33,6
+e49d3b64-2b85-4e30-89f5-52bd81bb3cf8,04/12/2021,Gabriel Martinez,Male,24,90061,Electronics,North,699.23,6
+972fe835-c6e9-4e83-9c37-80e3df31c26e,16/10/2020,Tony Henry,Male,39,101435,Clothing,North,229.91,6
+1b192825-8be8-4aff-bc0f-d6c77e041489,17/01/2021,Jessica Williams,Female,56,45257,Groceris,North,396.41,9
+dc0737e2-ff6e-4a5f-8f45-37dfcdf9a86c,22/10/2024,Jennifer Jones,Female,32,136868,Groceris,North,603.71,4
+974dcb92-e453-478d-b52e-0610b3d328a0,12/09/2021,Anthony Ferguson,Female,26,99804,Electronics,West,358.82,8
+59c40593-8039-4d8f-8761-80dac3c2bbc6,04/05/2020,Jason Little,Male,67,135030,Electronics,South,859.33,1
+fa189693-8a6d-44ef-9f4b-67f335ecc867,16/09/2022,Brandon Thomas,Male,18,94409,Clothing,North,548.75,9
+356498ec-4f1b-44bb-8542-f59d9f6b3326,07/09/2022,Virginia Hill,Female,42,100667,Groceris,North,892.1,9
+4a3302b8-ad0e-4156-8663-8468c242a320,13/12/2023,Jessica Werner,Male,63,86845,Funiture,South,686.32,6
+80b2e792-bc17-48b1-ab1a-62f654090825,24/03/2021,James Foster,Female,18,43559,Entertainment,West,223.4,8
+08af3a14-8bcb-4c2a-b0d9-60f8653e8450,12/05/2024,Michael Grant,Female,39,58879,Electronics,East,319.85,1
+2ff4bde3-442b-4630-949a-56268cd08099,17/01/2023,Jennifer Duran,Female,49,80068,Health & Beauty,North,88.84,6
+a36bc46f-3e3f-4709-beb7-15107b7da02a,14/04/2021,Christopher Hopkins,Female,62,86353,Entertainment,East,30.98,9
+17f301e2-8edb-4fa2-b916-5477804241ba,16/08/2021,Kathy Gordon,Male,64,30684,Groceris,South,868.54,3
+4c211c3e-3e63-4b46-bd10-81b87f5f181b,23/11/2022,Randy Leblanc,Male,38,50776,Health & Beauty,Central,560.98,5
+0e05f012-3120-4ff6-9770-f450c0b70298,24/10/2021,Paul Olsen,Female,18,122467,Entertainment,Central,712.52,8
+4c93f276-2e9a-4ab3-8845-c57f726be231,07/05/2020,James Lang,Female,70,81150,Funiture,North,376.32,7
+742754b3-1204-41ed-998a-7fde4d5e880d,15/05/2024,Thomas Miller,Female,40,79027,Health & Beauty,East,748.96,6
+343aeaa7-1f66-4c34-aaa2-663981bd02db,25/10/2021,Eileen Gomez DVM,Female,18,119297,Funiture,Central,695.87,2
+c4d3ab4d-aae0-4a4a-a489-79585b955193,18/05/2022,Ashley Brown,Male,42,34295,Electronics,West,686.55,1
+f8395704-111f-4259-8278-0fc7b0949b4e,13/01/2021,Devin Carpenter,Male,18,70182,Electronics,Central,324.71,1
+2dd7dcdb-fbb7-4653-96d2-2dfff7389714,04/03/2024,Kayla Clark,Female,35,149125,Groceris,South,929.19,2
+3e829640-8295-4107-9ead-1e8c5953005c,20/04/2020,Jordan Mcdonald,Male,20,54258,Groceris,West,670.81,1
+dae96b8d-445c-4dab-8970-9ff568667114,10/02/2023,Thomas King,Male,46,44732,Health & Beauty,South,431.05,1
+243506eb-512e-4e0d-bf2b-552c3ceffe93,30/11/2022,James Rose,Male,69,114910,Groceris,East,192.58,3
+d7f37cc2-c41a-4af7-8cc3-6d2e2f578d3d,14/04/2022,Kayla Smith,Male,22,110314,Electronics,Central,421.56,9
+17c3a4c8-5724-4fe9-a873-d9e38d073d52,16/06/2020,Rachel Frost,Female,70,124122,Entertainment,West,423.71,1
+45e060e1-b475-4d12-9546-b31966e88e01,02/09/2023,Stacey Lopez,Male,61,48739,Funiture,North,377.19,1
+415e8e9b-2bfa-4deb-8237-41fd77f19eaf,19/05/2024,Jeremy Martinez,Female,31,148737,Funiture,South,456.66,2
+3875b604-31fa-4719-b83b-c1a43d8d216a,05/07/2020,Heather Mcdowell,Male,21,39673,Funiture,South,265.81,2
+43484c63-c4da-4008-abd7-69eb0ac0f4b6,24/02/2022,Brenda Mccoy,Female,59,131438,Electronics,East,579.29,3
+2c40a5ee-cd53-410f-8c26-d4a3765bd84f,16/09/2020,Kevin Harris,Female,57,32801,Funiture,East,156.84,2
+25e20879-8436-4faf-ac93-4ff453a8285b,30/09/2020,Michelle Brown,Female,30,56763,Funiture,North,575.68,2
+78f78d47-d1d3-407e-9f9b-d8df8babda34,08/08/2024,Jaime Moore,Male,31,35363,Health & Beauty,North,882.67,4
+16891358-a7e6-4244-b7ff-6967bba935c6,19/10/2021,Jeffrey Smith,Female,50,85263,Funiture,South,443.79,6
+fe6ae3d0-3c31-4271-a25f-ed4bc18422e4,05/10/2024,Deborah Beasley,Male,44,47219,Electronics,East,215.8,1
+ccf60847-d8bd-4fa4-b7ba-b35f201b9e26,07/09/2022,Lisa Mills,Female,21,68282,Funiture,West,350.89,7
+af552005-a22f-4502-b60a-e066dcc116f3,23/10/2024,Bobby Barr,Male,70,27951,Electronics,East,759.84,2
+6280b484-9114-4e34-99d2-e600fbf8dd8c,07/12/2020,Adrian Long,Female,60,30954,Funiture,Central,703.12,3
+df99cf50-7f51-482e-9087-9ec2ece6b5ff,06/03/2022,Aaron Montgomery,Male,59,92808,Electronics,Central,309.03,6
+bb85e59c-0497-4c7d-9209-ab750849c374,06/02/2020,Susan Owens,Male,54,120451,Entertainment,North,665.17,5
+8872dc59-5e38-4494-ba90-c1919abb8b33,13/10/2024,Andrew Hahn,Female,55,141531,Health & Beauty,East,748.8,7
+51852e23-6cce-45fc-bb8b-f6598d56f210,15/02/2022,Pamela Wagner,Male,28,101905,Clothing,South,932.07,1
+405db32c-3770-4c32-afb6-1a26687a14e2,06/08/2024,Daniel Price,Male,20,73193,Clothing,Central,853.54,7
+775d5f21-a1d7-406b-bbd6-9ae29cecf9de,15/10/2022,Justin Johnson,Female,42,100394,Entertainment,East,569.27,6
+9740d291-2126-4688-a268-c1e45d2ce8b9,16/11/2023,Brittany Harris,Female,31,60686,Groceris,North,393.88,2
+a6619407-527b-44d6-8088-29841aa18b14,30/07/2023,Maria Mann,Female,66,37269,Electronics,South,634.42,4
+4eaba380-b080-4f1e-8ad0-0d86f150973d,30/12/2021,Victoria Cook,Male,60,77223,Electronics,East,893.01,9
+0c1150e1-cb1b-402d-b67a-96162e805206,30/06/2020,Paula Wells,Male,34,122841,Groceris,South,594.87,9
+793c33c7-c6cf-44f3-9112-06d0b39fe4f1,24/01/2020,Jessica Jackson,Female,49,74338,Groceris,West,640.33,3
+3071c29c-65d7-4e55-a9c4-a08be6a41335,21/11/2022,Daniel Booth,Female,47,110911,Groceris,North,631.06,5
+acfd91c0-2b80-4d33-8c73-9668d0e26306,24/10/2023,Jessica Robinson,Male,32,87157,Clothing,North,630.99,7
+39809481-9bf4-4089-b5f1-684b0d60e05c,16/09/2023,Angela Torres,Male,28,77700,Clothing,North,79.83,5
+139e36a8-98eb-4a93-955a-886c69563480,20/01/2023,Tristan Reyes,Male,18,111330,Groceris,East,194.91,6
+37bd99f9-867f-436e-9c9d-877a272a71ab,15/08/2023,Alexis Mcdonald,Female,57,97635,Clothing,Central,743.12,8
+ead97230-c176-449c-9203-f1a9ffa70b02,23/11/2024,Donna Wilson,Female,22,111723,Electronics,West,498.41,7
+e025ab3e-a358-4118-84cf-10d94adf6267,04/01/2024,Sandra Ramirez,Male,35,139642,Clothing,South,397.15,7
+a721b3d8-5992-4c1f-930f-59a8df73da51,11/12/2020,Karen Vance,Female,53,31498,Health & Beauty,South,106.6,8
+d81e5573-f639-47b3-a37f-c5dfb638d8ed,26/05/2023,Kylie Thomas,Male,66,107270,Entertainment,West,130.59,8
+f5b7a6e0-a979-4bb2-adb8-0056386da8b1,21/09/2022,Lisa Gould,Female,34,48975,Clothing,North,241.27,3
+0ed82e26-0174-4c4f-9baa-f83f3b97d44e,12/12/2022,Timothy Donovan,Male,53,96159,Health & Beauty,West,615.69,2
+ae01e5a2-212a-4f8f-928e-2e2d1526dace,25/04/2020,Grace Jones,Male,63,139180,Health & Beauty,South,904.69,3
+dd6dfb29-0553-4fdc-87a7-b03e5aab32b2,04/11/2020,Elizabeth Blackwell,Male,53,99597,Groceris,West,881.27,2
+7c199b4c-f0c8-4e9b-9949-8a3657cf00de,14/03/2021,Martin Joseph,Female,48,133637,Groceris,Central,101.07,2
+ac1ea210-1222-4cda-843b-0d2aa779cc29,22/05/2022,Alexandria Leonard,Female,42,47543,Funiture,North,448.43,1
+645d3209-53b2-4fb2-b535-d94b33b351f7,05/07/2022,Debra Sullivan,Male,18,119594,Clothing,Central,599.7,4
+38f5c265-26b8-4da4-b503-d6bb4429916a,11/07/2021,Maria Bean,Female,22,130617,Electronics,North,867.59,6
+36e26329-7bff-42c3-9618-e0c56f243a00,29/11/2022,Ryan Vaughn,Male,32,58374,Health & Beauty,East,254.11,7
+139a7891-b959-4649-ae8a-4212f295dcde,21/06/2022,Becky Brown,Female,68,96229,Groceris,West,722.25,6
+ae09713c-7c20-4ee6-bff8-09daaf09a17f,23/11/2021,William Sparks,Female,55,116790,Clothing,South,953.94,5
+98a8d582-5060-42e1-ab02-4c09998eb5dd,28/11/2022,Jason Gibson MD,Male,25,30451,Groceris,North,933.07,9
+74b69fa3-1882-4361-a762-39623edad51e,15/07/2023,Cindy Smith,Female,23,54914,Health & Beauty,West,302.09,2
+5183763a-9e4b-4d0c-b271-000b57aad185,04/01/2023,Veronica Jackson,Female,41,43780,Electronics,Central,531.74,9
+02b689ba-2450-44a8-8d21-db64f05f305f,01/05/2022,Andrew Nguyen,Female,25,40813,Clothing,West,86.58,9
+829e4047-b32f-47db-9be2-cc59a3230600,09/04/2023,Colleen Payne,Female,38,39668,Electronics,East,927.98,5
+d89252a4-d825-454a-b2de-6ab5d5acaf5d,30/04/2022,Steven Rogers,Male,51,52719,Entertainment,North,147.91,5
+ba9cc851-b3d6-4ef4-a3f0-63ba4a4baff6,03/05/2020,Alex Fisher,Male,41,116961,Groceris,East,170.12,2
+1ac44d66-c341-47ca-998d-26574621f4ca,04/04/2021,Ryan Dorsey,Female,24,141620,Clothing,North,639.56,5
+d72bd8b6-b02e-4677-ae07-5ae49fd3d3f9,07/11/2022,Amy Allen,Male,63,63112,Clothing,West,692.47,7
+88356d17-4a6e-4391-8295-dc83bc66cb8c,16/08/2024,Dustin Sutton,Male,55,126685,Health & Beauty,West,967.91,5
+185957dd-6092-4d10-b760-07f5a97d4e16,24/12/2022,Rebecca Jimenez,Male,29,81642,Entertainment,North,184,7
+4f7f2ef7-f4c2-4cee-b765-f5caa9753f9c,13/11/2020,James Sampson,Female,47,139624,Health & Beauty,North,701.89,4
+2a925380-46f4-4f44-bc6b-bd66911ea623,08/11/2022,Daniel Wallace,Female,45,48056,Health & Beauty,North,71.1,6
+f006d7ef-e2d9-43a8-80ee-321536b76d1b,26/11/2022,Thomas White,Male,55,138896,Groceris,East,291.2,5
+f5b3b4e1-6e82-485b-b60e-7b7844e4d141,03/03/2021,Jennifer Hernandez,Male,63,96471,Funiture,West,223.17,9
+20305038-cda5-4410-8ccd-53e1266fde80,28/08/2024,James Farley,Male,57,66419,Electronics,West,477.45,6
+f46f7c6d-ad4e-4445-a545-4f68ef99dc14,21/03/2024,Crystal Hill,Female,37,37501,Entertainment,East,277.45,4
+e128b43d-ce8b-44c2-9328-7a1df03a5f03,24/03/2020,Robert Miller,Male,24,73778,Clothing,West,246.06,3
+692383ca-5950-4661-87d2-d7a7115aea8a,15/02/2024,Rebecca Pierce,Male,22,25468,Health & Beauty,East,712.98,3
+246fa362-ecea-4f8a-9334-66607c87d90e,29/12/2023,Lisa Lewis,Female,48,41578,Entertainment,North,325.9,5
+52821d54-8974-42db-af1c-f9c13e38cc85,17/01/2020,Rachel Boyd,Female,49,46950,Clothing,Central,21.41,6
+e5565fb0-93f3-47a0-9015-c612ed0a66b2,20/12/2023,Gregory Moore,Female,69,34084,Health & Beauty,East,221.73,9
+2b788efc-1e74-4ec1-a571-0191311dcf82,17/05/2021,Jonathan Cochran,Female,18,100275,Groceris,South,815.41,3
+ac152229-10a1-495e-8fa7-e1e4ff922db4,27/04/2023,Chloe Lopez,Female,64,90533,Entertainment,Central,991.67,4
+d8765d4b-ad16-4c89-ad82-1fc133fc6599,31/05/2023,Mr. Derek Allen,Male,22,112096,Clothing,East,614.15,1
+f6cebb9f-c5ec-4528-afac-055489d695c4,02/04/2021,Todd Gordon,Female,68,59451,Entertainment,Central,753.35,2
+96fcd1db-c49d-479b-9f40-f5663670d3f1,27/12/2023,Amy Davidson,Female,27,68451,Electronics,North,73.04,2
+5a64938f-4387-4ba1-984a-7ade97a87eaf,09/02/2021,Pamela Rice,Female,31,107180,Entertainment,South,303.7,8
+a16bb4fb-5236-4f5e-9b2f-1d2b8cce1f30,02/09/2022,John Weber,Female,41,103282,Funiture,South,130.15,6
+2a5e0379-44d2-425a-8d11-d2d35a485c82,03/04/2021,Samuel Christensen,Female,22,123815,Entertainment,East,201.85,6
+7734b68b-1b2f-486f-9cce-7829f50e7c5e,07/05/2020,Julian Martinez,Female,55,29050,Clothing,South,170.3,1
+0803588c-652e-475d-b491-f18be77205d3,05/02/2020,Kevin Juarez,Female,43,48393,Clothing,West,394.72,3
+b097f357-7d12-428a-804b-c3dba3379125,08/04/2021,Sandra Lynch,Male,70,133305,Funiture,West,2726.64,7
+e2529438-4f91-4a3a-a23e-e66c00360528,03/08/2020,Danny Duncan,Female,36,108419,Funiture,South,432.56,4
+d84ee10c-3736-4b55-aa7b-7366c28e608e,08/05/2022,Melissa Brooks,Male,18,96452,Funiture,North,460.94,6
+6062df9a-ecc8-4e0a-87c9-f6e10cfefa7c,26/02/2022,Patrick Potter,Male,24,109505,Entertainment,North,869.28,7
+f13c6d42-da27-472c-98b6-7bef9ea76cf9,07/08/2022,Patrick Butler,Male,42,119458,Clothing,South,213.03,2
+dfb96443-65ee-4f26-8385-92904c274da0,13/10/2020,Julie Brown,Female,20,67543,Electronics,West,391.19,9
+09fe0646-0fb1-469f-933d-a73f2046fa55,08/06/2022,Stephen Bryan,Female,50,87289,Groceris,East,521.6,3
+18c5eb38-3f8f-4ba7-836a-6488f5bcfbee,05/07/2023,Alexis Garcia,Female,63,45329,Clothing,North,636.49,8
+2498034e-36e0-43cf-b5b5-4ad1171382da,24/09/2022,Danny Rowe,Female,55,114853,Clothing,North,33.88,4
+1d5b1831-11bd-4989-8407-cc989c08ec1f,08/06/2022,Meagan Wallace,Female,34,47898,Groceris,West,22.89,4
+c1e5ac26-4784-479d-9d88-40f39ecf540f,31/10/2022,Jeffrey Duncan,Female,45,92266,Funiture,North,666.24,4
+ee41fd02-0617-462f-845d-88c6174c4fb3,10/05/2024,Michael Brown,Male,49,57427,Health & Beauty,East,461.82,1
+c84c56c4-fbfb-47ad-bcd3-90012e321419,10/08/2020,Jennifer Evans,Male,55,102691,Electronics,South,566.93,5
+609d4811-f646-4151-bfee-3b73edbc9769,31/07/2021,Chris Herman,Female,40,38474,Groceris,Central,734.89,5
+35508af1-783c-483a-855b-de76b024016e,29/08/2022,Angela Roberts,Male,69,68691,Entertainment,West,154.78,5
+8f2d71c6-cadf-4e98-bd44-e5a4fcc80d53,19/03/2024,Justin Casey,Female,67,116579,Funiture,East,61.06,7
+7a299d5e-6ac7-488c-957a-11f85b4525d5,29/04/2024,Makayla Jones,Female,67,58310,Groceris,North,274.09,4
+fe4165ae-20bc-4a3c-9856-64ff68fd45cd,10/07/2022,Holly Ferguson,Female,31,31809,Funiture,West,6460.61,6
+f202fe1a-41f3-4dab-a0d1-c1a7f7c4090a,06/12/2022,Nicole Anthony,Male,50,144001,Electronics,North,332.88,6
+6aa36ed7-f939-4f52-8188-042830fa1c09,16/01/2024,Robert Wade,Male,35,136014,Entertainment,South,395.8,7
+4f3cfa80-d6f4-45a0-8c0c-7935e4355b0b,23/02/2023,Tara Turner,Female,39,67109,Groceris,West,710.18,2
+4a114b89-142d-4f24-a7ec-ecc84475d25a,12/06/2023,Deborah Clark,Female,55,32391,Funiture,Central,585.28,1
+c37a0a01-c774-49ea-b148-1c2694dc60dd,27/03/2020,James Erickson,Female,29,111275,Electronics,West,793.19,9
+501fb1d2-87e0-48e6-88de-7a470a3eb698,07/05/2024,Christine Huff,Male,40,87616,Clothing,East,664.53,2
+37b88cf3-2bb1-4242-8272-e86594288438,23/05/2021,Zachary Roman,Female,29,39115,Electronics,East,716.92,3
+62139e1d-3e55-4e97-b79e-09249d5d8116,16/04/2021,Tiffany Hobbs,Female,42,52907,Electronics,South,278.99,3
+b91a3d03-0cfd-42be-a3ea-9422634df6d6,05/01/2021,Brianna Kirby,Female,36,147075,Electronics,South,574.78,8
+6d9314a1-00cf-4ec1-8fc3-9b32bb81326a,10/09/2023,Philip Ortiz,Female,60,92388,Health & Beauty,North,649.19,9
+9e3f6224-80c2-4c3e-8f7b-e3eefcd2eeb1,04/01/2022,Robert Ballard,Female,57,43674,Health & Beauty,East,359.35,5
+17adc4ed-e27f-4347-a7a4-e736e0b43694,08/01/2024,David Thomas,Male,50,68993,Health & Beauty,North,413.96,8
+2e70765e-ec5b-4fa6-8141-e4848abc909a,07/11/2023,Christopher Diaz,Male,44,112151,Clothing,South,317.47,8
+9196526d-8116-4e36-a20e-38a335c690bd,03/09/2021,Troy Ellis,Male,28,133746,Health & Beauty,West,436.9,7
+d842045e-0f65-470d-a5df-741c60533b12,02/02/2024,David Dunn,Male,61,82330,Health & Beauty,East,394.77,4
+1994e269-4f89-4a58-9de9-fcb1d494f68e,14/08/2023,Derek Scott,Female,70,89744,Health & Beauty,West,896.22,5
+1d559735-d353-4731-ab43-cf7209ecb9a0,25/06/2020,Melissa Deleon,Female,41,69560,Health & Beauty,East,594.83,7
+433f0da7-ed4c-4d89-a015-93d52fcbd595,29/11/2021,Susan White,Female,56,113111,Clothing,Central,12982.9,2
+9a74b459-4e88-4e07-bca2-2afc6c108fb6,16/04/2021,Sue Harrison,Female,51,77855,Funiture,West,943.04,1
+d8c0ce7e-2368-489d-8d17-03607b2662c5,03/03/2023,Christopher Murray,Male,36,90340,Electronics,North,979.71,8
+d185e7d5-00b2-4cbb-97e2-3ce9e3472df0,19/01/2020,Daniel Garrison,Female,32,52449,Clothing,North,877.36,5
+69b264b7-882e-4386-89c9-9f38939cfb35,26/12/2022,Adrienne Williams,Female,58,144348,Groceris,West,118.25,3
+c664188e-081c-4a26-98fa-ae12e57b392f,16/05/2022,John Frey,Female,50,85812,Electronics,West,512.83,1
+07fe9fef-63bf-4d3c-bb5e-0c3c12adc091,19/06/2020,Emily Sutton,Male,67,120073,Health & Beauty,Central,559.58,6
+776c664d-3ca3-4abe-a78f-61511864602e,17/11/2024,Erin Cooper MD,Male,37,131192,Clothing,East,347.01,6
+12a5a762-fc41-4c01-b1a2-69fd34f70485,23/12/2023,Sherry Nunez,Female,56,36342,Funiture,Central,58.43,4
+a152d848-42c7-42e4-8d7e-1bb5732ad2e4,28/02/2021,Rebecca Monroe,Female,54,48212,Funiture,South,511,2
+af6ab2ad-32ac-41b7-b8bd-0c87bf0ef11c,11/02/2023,Miguel Pearson,Male,49,34426,Groceris,South,695.03,3
+884ee3e7-0348-4e22-b53f-5ba6fbf436ac,23/05/2022,Samantha Dean,Female,37,78986,Health & Beauty,Central,415.71,8
+372653e9-34a9-4b44-b9e4-25ce21bb5e4b,11/01/2024,Kenneth Riddle,Male,40,38471,Clothing,North,544.95,4
+f311e3c2-1373-42b3-b16b-31856766ab24,10/12/2021,Nicole Grant,Female,33,62706,Electronics,Central,261.88,5
+e0366710-649c-44ce-a2e6-23a68320e60c,20/03/2024,Eric Shea,Male,53,138479,Health & Beauty,North,574.52,4
+9d3987f0-55c0-4510-b88e-d6a02f7d6fe2,28/10/2024,Ann Fuentes,Male,29,145515,Health & Beauty,West,823.97,4
+30b09ee2-1376-4637-acff-b713a6ec92c9,22/03/2021,Monica Dunn,Male,35,126356,Clothing,North,111.31,8
+5551be14-bf78-4233-82d2-ef7b8ea47fd7,02/03/2020,Lauren Phelps,Male,68,140083,Health & Beauty,South,910.57,5
+a24bb7db-6dbd-4432-89a0-7e7043b9ce45,13/05/2022,Frank Burke,Female,47,120861,Entertainment,Central,176.03,7
+734fd938-7d5c-4919-a44f-b040d1f02d98,24/05/2021,Kevin Delgado,Female,24,39272,Health & Beauty,South,884.3,2
+34b2f283-eabe-4931-8147-d67dfff0bf20,08/10/2024,Doris Pruitt,Female,57,49247,Electronics,North,780.38,5
+0ef64f3e-9727-4a3b-865d-92c2ff663416,01/10/2023,Sara Tate,Male,44,40767,Clothing,South,160.34,4
+88cf2d49-777c-416a-a479-46f406069943,01/06/2024,Barbara Warren,Female,46,73620,Clothing,South,776.85,6
+1a4dc42d-fe6f-46fa-af8b-5ea543c67038,02/02/2023,Joseph Odonnell,Female,35,135525,Entertainment,West,355.21,3
+4f5d37ad-aacc-4b3a-baf9-91a31e5c2ce3,19/03/2020,Mr. Thomas Davenport,Male,24,129198,Electronics,North,450.56,7
+cf96351f-f5b8-485b-a3e0-876a1d035cbb,13/07/2020,Scott Martin,Male,59,146788,Entertainment,Central,781.34,8
+c7b97d2e-2d4b-46c8-b5f9-7f26c2410a93,07/09/2022,Christopher Ayala,Male,64,44794,Funiture,North,123.13,5
+9336661b-6a7d-4cf1-af37-a38f18bdc9fa,02/11/2020,Nicholas Ramos,Male,50,44858,Groceris,South,733.48,5
+2865b93c-056c-4642-b621-418cc136369e,28/06/2023,Brenda Chen PhD,Male,60,88296,Entertainment,East,795.08,5
+8ae48f97-d418-4b09-8dc6-ce1888e52369,02/04/2022,Veronica Stewart,Male,41,71483,Entertainment,East,755.77,9
+1aface50-f953-4586-a7a5-869dbe057e56,18/06/2022,Susan Roberts,Female,45,45946,Entertainment,North,552.04,9
+bc9d7d87-3236-4a79-9cb7-228dc8000fee,20/03/2020,Richard Lopez,Female,22,141532,Clothing,Central,730.05,7
+888fbaee-7518-4e89-af2c-f731a555654c,19/12/2024,Janet Rojas,Male,32,102527,Funiture,West,849.16,2
+ccf41901-97f2-43b7-85c7-de08677dc9ad,11/08/2021,Stacy Nash,Female,30,26075,Clothing,North,982.33,1
+fe276631-5e42-452e-8bf9-6e7cad075af6,23/08/2023,Carl Maddox,Male,44,146954,Health & Beauty,Central,898,7
+4d77c0c9-232c-4970-8d73-788b6a1e7e10,27/02/2024,Martha Gates,Female,69,90234,Electronics,Central,698.63,9
+d1ccc860-4ffe-4892-8871-fad45b555b7f,08/06/2020,Robert Lewis,Male,31,103202,Groceris,Central,194.42,8
+e69bcd81-7035-4084-b434-aefc2cf2645b,15/08/2024,Mr. Todd Wiggins,Female,25,93638,Entertainment,South,183.58,8
+bb1ada2c-72fe-4353-ba2d-4f38c51af6dc,11/03/2020,Jennifer Smith,Male,33,111488,Groceris,South,313.13,2
+94bbe895-8032-4eac-b42c-95563216ecc8,06/10/2023,Vanessa Tucker,Male,19,79188,Electronics,North,546.11,7
+a4483ebd-4a83-4f7b-9027-00945a6d73de,22/06/2020,Tommy White,Female,50,49461,Funiture,East,71.54,8
+b117b7b2-1d56-4d2a-9ea1-7988ec656ffe,18/02/2024,Willie Williams,Male,39,48113,Electronics,West,866.01,7
+7cc5ccfd-aca9-4590-89c6-c209303940ee,20/11/2024,Amanda Price,Male,60,80521,Funiture,Central,296.76,8
+1afaae01-2663-4be7-be52-9961e45777fd,12/12/2021,Rebecca Murillo,Male,51,102789,Funiture,North,220.03,5
+9240aa6b-f162-439e-848b-c275ed7e5a05,17/04/2020,Sean Sanchez,Female,45,52425,Health & Beauty,Central,935.91,8
+71324983-09cd-4d87-a565-881ab36b9108,15/10/2023,Lisa Aguirre,Male,34,77746,Health & Beauty,East,184.72,3
+6f4ae383-efb0-4b2b-96bb-b88fa80552de,05/01/2020,Maurice Johnson,Male,55,142522,Groceris,East,159.71,5
+3689eba2-2a97-4ba1-bff0-48a3888f7c4a,24/08/2022,Justin Cox,Female,61,42541,Groceris,East,989.98,7
+69282dda-aa6b-4e5b-8f29-b9e9a33d8edd,29/02/2020,Susan Graves,Male,64,37085,Entertainment,North,290.33,1
+641d29ac-947a-4f59-9b38-9b4f91e585b1,04/01/2021,Laura Madden,Male,62,64097,Entertainment,Central,702.26,9
+8202a124-4062-4653-9e63-bd689f20c831,18/09/2024,Mark Alexander,Female,49,146212,Health & Beauty,North,10.04,2
+7e772739-bab5-408b-824e-39669e204493,26/01/2021,Michael Hill,Female,48,45550,Health & Beauty,East,851.49,2
+40c5c96e-ea31-417f-b5af-57aca9bfe5b2,08/06/2024,Lindsay Bailey,Male,43,39733,Funiture,East,830.13,5
+0f9e71ea-61e9-473f-ac4d-78a36eae7e83,09/02/2023,Devin Kennedy,Male,53,132234,Entertainment,North,932.69,7
+5f5ad66a-8ead-49ee-bca0-ba7be7eddc91,06/08/2022,David Velez,Male,59,112154,Clothing,East,542.24,6
+8d083359-8408-4f85-a026-464d5cba3f2e,01/11/2023,Rachel Sanchez,Female,22,108753,Groceris,South,533,8
+9bc633fa-9357-465a-ae43-e2a768b53692,16/11/2021,Anthony Reid,Female,63,148943,Entertainment,South,446.47,1
+780c46bb-d6f9-4c0f-9ff2-2c2b6bbb77e6,28/03/2024,John Carr,Female,42,126294,Groceris,West,206.94,9
+c2db98b6-7bba-4316-8b7a-1c0a91d626cd,23/08/2022,Ryan Esparza,Male,18,104117,Entertainment,South,24.89,1
+b8ca45e0-e9e3-4ada-987d-b406d138817b,10/11/2023,Justin Mccall,Female,31,84941,Entertainment,West,331.61,2
+ffeac966-45e2-47cb-8629-710397f4615c,20/02/2022,David Harris,Female,41,54003,Entertainment,East,740.22,7
+b9d17347-42c7-426d-a447-43dcd3f47913,13/05/2021,Mr. Michael Thompson,Male,50,118217,Clothing,West,710.58,6
+7b90e7e5-606a-4844-a9aa-54eceea508ca,20/02/2021,Daniel Anderson,Male,47,84403,Entertainment,East,272.38,4
+21657401-63b8-4388-9d71-b8757290d256,03/06/2020,Katherine Rodriguez,Female,45,146621,Clothing,South,912.23,6
+b331baee-5b79-4a31-a2c1-a6e042abeb5c,01/08/2022,Jonathan Gross,Male,42,79828,Entertainment,West,784.5,9
+64dbdff5-a366-4d2b-a02d-96fd86f084f5,19/12/2021,Taylor Cervantes,Female,69,112325,Electronics,North,539.7,5
+7ed6e387-4d53-42c1-b194-6068795ba635,27/07/2023,Jerome Smith,Female,31,130151,Groceris,South,840.25,8
+f9385ece-d776-48eb-b488-820ceb5ed053,03/07/2020,Amanda Mclaughlin,Male,32,90508,Electronics,South,940.42,1
+6cd9ebad-0e58-4711-a0b6-16241e28e736,31/10/2020,Corey Burnett,Male,54,69885,Funiture,West,581.11,3
+0fc2dadd-21d3-40d7-8548-e2d998650d41,19/11/2022,James Shah,Male,50,97145,Electronics,Central,859.19,1
+62833d37-9185-466f-b141-b10e818ffa2e,06/09/2024,Dana Huerta,Female,57,57621,Clothing,East,797.56,3
+f29d3f1a-0276-4f9b-b604-6c39032b1b21,08/05/2021,Joseph Rodriguez,Female,57,63139,Clothing,West,198.6,5
+36fdad4e-fe49-419d-b412-d8e877f29d3b,22/12/2024,Sharon Rogers,Female,30,28567,Health & Beauty,West,651.23,7
+348cf527-332f-48af-8583-bb4465370af5,15/06/2021,Christian Schwartz,Male,60,58326,Electronics,East,491.62,1
+73c177d6-8337-4f98-ab4e-5277c732362e,21/05/2022,Sharon Rowe,Female,55,35991,Electronics,Central,689.04,3
+df76f7ff-bc9c-4cf0-b9d0-26339d7ba2ed,17/08/2024,Ronald Crosby,Male,42,47735,Funiture,South,469.38,8
+c931c631-9b95-4af1-979e-329041a0498c,21/02/2024,Jose Bush,Male,45,86301,Funiture,Central,707.03,6
+a6fed08f-8f74-4b93-b76b-8693c9098199,19/02/2024,Patricia Harper,Female,31,149307,Health & Beauty,East,91.45,3
+08c20ba4-ba7e-43cf-88b3-b425d9216904,25/05/2022,Rick Schneider,Female,64,113600,Health & Beauty,East,41.72,3
+93e491a0-4a8c-4ab6-a6cb-7f5e163209fd,10/03/2020,Marcus Martin,Male,60,114097,Groceris,West,859.85,7
+1ef447e5-2588-4591-8332-06112eead947,14/08/2022,Christine Blackburn,Male,49,54287,Entertainment,West,162.05,7
+ec234e25-9c1e-493d-af19-9c501c35f18b,31/01/2022,Donna Long,Male,44,119914,Funiture,Central,979.18,6
+703e4732-a79e-483c-8882-43b74e7a67f4,27/03/2020,Kristen Jones,Male,32,118761,Entertainment,East,143.59,8
+af3c2202-6fb5-4869-8428-fced6d76d13e,19/07/2020,Laurie Moran,Male,46,85208,Entertainment,East,444.9,3
+5c6d8a4f-8edb-4cc5-a581-856a8032c428,26/01/2020,Sara Sullivan,Female,40,140910,Entertainment,East,404.55,9
+1d0a14f8-cf55-4a52-ba6d-4c2651e2b6c7,17/07/2024,Teresa Santos,Female,61,100186,Electronics,West,507.83,6
+f42530cf-90a7-40b7-a45d-ed0bee1c3b9a,30/05/2022,Melissa Todd,Female,35,128680,Electronics,Central,950.77,6
+0fe7c734-efa1-498d-b36a-49a03278ae1a,01/10/2024,Melissa Olsen,Male,70,81463,Funiture,East,220.24,7
+7f50607e-1e63-4f77-888b-5733ea50c747,21/03/2020,Karen Richards,Male,53,148769,Health & Beauty,West,383.15,1
+a11bf605-f913-4820-a048-373fa909c067,25/05/2022,David Maddox,Male,41,38200,Health & Beauty,North,676.85,1
+3852644f-1777-4c2c-9b37-42b14f418bd3,12/06/2023,Michael Holden,Female,41,79227,Groceris,Central,908.3,3
+8078dd0b-9bcd-42b5-9b58-bd03c8cafabb,23/04/2020,Janet Hoffman,Male,36,117787,Entertainment,East,503.95,6
+02f41f50-086b-4a32-a940-7a7a91532dcc,01/08/2023,Karen Harper,Male,36,53810,Electronics,South,189.9,4
+b159f274-dd35-4dd7-ab63-e60e0b991e0d,10/11/2022,Daniel Andrews,Male,66,86647,Health & Beauty,South,901.2,6
+47801091-61bf-49a9-89fb-8db2730c6f6d,21/01/2022,Brad Wilson,Female,53,137635,Electronics,South,397.88,9
+d78c980b-3522-4f5e-9013-43b5b2887b33,29/04/2021,Alexis Flynn,Male,21,47615,Funiture,West,327.12,8
+77121528-0ec5-4aac-b18c-416c1692047e,06/01/2023,Jennifer Burnett,Male,20,140792,Funiture,West,237.2,8
+4eb3e69a-839f-4d61-9722-8949631210cc,23/03/2022,Tristan Miller,Male,54,55172,Groceris,North,8302.46,3
+4fa3ff87-c1a2-48fa-bfc6-03cbe82109f8,03/03/2023,Alyssa Foley,Male,41,133325,Funiture,North,122.97,7
+4d9474f1-6c55-4a2a-bb8e-341c27200583,31/07/2024,Jennifer Garza,Male,19,111126,Clothing,Central,105.28,6
+4e29a727-5a3b-498b-a8b5-45d09a345b5b,25/03/2020,Brianna Johns,Male,64,97854,Clothing,South,152.01,8
+a167f5ce-c949-49f6-acba-dbe2cbf5478a,12/02/2022,Joe Haley,Female,33,127295,Funiture,South,401.42,3
+132caad2-c605-471d-9eae-f81e78268338,10/05/2024,Jeremy Stanley,Male,54,124729,Groceris,Central,603.37,3
+41d94c79-d0e7-400d-8ecc-0cca3f40be39,02/11/2020,Karen Mccullough,Female,64,26068,Clothing,East,679.46,2
+a0a1faac-8a6a-4a07-931b-52f233afe637,28/05/2020,Sarah Black,Male,67,89425,Groceris,West,476.4,2
+8ef29e35-a857-489a-815e-7110abc800a8,11/04/2020,Joshua Taylor,Female,47,114624,Health & Beauty,Central,707.22,6
+f39e7511-0d85-420e-ba03-a250627c45e6,20/01/2021,Judy Torres,Male,31,109366,Electronics,East,703.7,8
+a76175a9-477b-4a88-ae6a-ac1d0f454a50,16/03/2024,Michelle Garrett,Female,36,64814,Funiture,South,4118.04,7
+b7980159-554d-4c67-bafb-0bae278c287b,12/12/2024,Neil Sanchez,Male,54,34502,Entertainment,Central,491.5,5
+c2b64062-a472-4e99-8c2a-8699f184ab3d,04/08/2022,Mary West,Female,52,109816,Electronics,East,668.64,9
+42201bd6-861f-47f5-bb62-81f46492ac71,01/10/2024,Randy Krause,Male,44,130927,Clothing,Central,183.9,9
+94361808-241b-4c4e-b216-47d3d5834ba0,17/09/2020,Amanda Cooke,Male,70,74334,Funiture,North,4499.04,1
+6663ab41-479e-471c-baa8-e94338a491b2,13/04/2022,Sandra Mason,Male,41,97474,Clothing,North,240.64,4
+228499b8-326b-4195-85dc-8cb4df2964aa,11/09/2023,Joyce Johnson,Female,19,112788,Electronics,West,705.4,7
+d96bc384-7565-46e5-b9cb-a1927fa49b54,23/03/2024,Mrs. Rachel Bell,Male,22,73887,Entertainment,North,238.68,5
+194d72cd-56a9-4097-8af8-d850e5ffce81,12/03/2023,Jennifer Rodgers,Female,35,100016,Entertainment,South,381.2,7
+116c6717-f5da-4fb0-b2ec-01d2fe7f8b35,02/10/2024,Adam Thomas,Male,27,133297,Clothing,South,953.88,1
+44bb75f7-85c6-4afd-8cfc-64d5b89a03d9,09/02/2021,Teresa Keller,Female,48,30290,Funiture,East,212.45,9
+c01f1d79-569c-413b-8144-6112b9d25c0e,20/02/2023,James Ray,Male,31,30206,Health & Beauty,East,519.23,7
+e75a3eb3-931c-41f7-88d7-4162e6478562,08/06/2024,Lisa Stewart,Female,52,117420,Clothing,West,173.1,1
+6991bda8-e462-47b5-af03-59b6c28da3fc,26/09/2022,David Rodriguez,Male,66,136567,Groceris,Central,360.37,2
+c08134e5-34d2-4421-b67a-0eecb7139b84,06/06/2023,Keith Wright,Female,64,33488,Clothing,North,307.82,3
+ed7a97a3-a0e7-4765-89bb-72836f3ed4b7,08/04/2022,Sophia Carter,Male,53,148599,Electronics,West,227.26,4
+958fe50c-14fa-4a30-bfd2-b493e573ced6,25/07/2024,Emily Mosley,Female,32,121984,Funiture,Central,648.33,6
+799ccacc-2e4b-4f73-bbf2-3206c82857fe,14/09/2021,Darren Johnson,Male,25,42286,Electronics,West,295.55,7
+6d65ed3c-89fa-4b78-839b-3fc90674e5ba,16/09/2024,Breanna Gamble,Male,51,146670,Entertainment,South,228.76,7
+f153c7cb-d69f-415a-86bf-6cf30a4b0f23,25/05/2023,Bernard Page,Male,49,25690,Clothing,West,376.16,3
+2d00a53d-c39d-414c-b797-1163384309d2,04/01/2023,Mr. Brian Henderson DDS,Male,67,28795,Clothing,North,938.69,2
+8fd3282d-45f4-437b-8a21-29dca68d119d,04/12/2022,Dylan Scott,Male,48,131116,Groceris,West,626.45,6
+41281ad9-b9f0-4994-8074-b6e878536f45,13/04/2023,Tiffany Montgomery,Female,24,55102,Groceris,East,24.04,3
+07652449-26bd-43bc-8586-4f4313706a3b,21/05/2024,Joanne Sexton,Female,38,44054,Entertainment,West,16196.4,7
+73125dcc-02ea-4067-8938-8b2dcd32b8b0,21/05/2020,Timothy Gill,Female,47,143664,Clothing,West,372.61,6
+f56c1ca4-d2a6-4b3d-a257-9cac1d1454c1,27/06/2021,Timothy Yang,Male,53,96601,Groceris,East,732.88,8
+d3b89bbc-9ec2-4428-8e04-02e21260ac48,04/04/2022,Christopher Lewis,Male,22,34697,Health & Beauty,Central,586.26,4
+c7afa68a-002a-4157-86e4-d0ad2abdb342,21/12/2021,Tiffany Page,Male,41,47530,Groceris,North,479.35,4
+77ab95e2-64ef-4f33-b4a0-b892edc8f0a7,16/03/2023,Jose Wood,Female,27,31739,Groceris,North,41.81,2
+0a1ffa7c-ca7a-4dd2-b069-4e79f472869c,19/07/2021,Rebecca Garrett,Male,59,85460,Entertainment,North,749.04,2
+4c2468d6-0db2-45ab-b082-a47b9ecdb203,02/12/2021,Michael Freeman,Female,26,59894,Entertainment,South,152.94,5
+1f196253-f32e-4c5b-9702-11dd53e2ecaa,08/10/2022,John Lewis,Female,65,71493,Entertainment,West,950.81,1
+03711df6-caed-4cfc-88b1-c69501b0932e,26/09/2022,Kelly Wolf,Male,41,50894,Entertainment,Central,86.49,5
+f417bd41-38e7-4c69-bf17-410e36e31466,15/11/2020,Jessica Myers,Male,65,121312,Health & Beauty,West,984.93,9
+6cb824b8-8cbd-4618-9df6-85942ac45605,09/03/2022,Christina Edwards,Male,33,122247,Clothing,West,259.94,8
+8579c378-862a-4c70-bbb5-79da729d2259,20/11/2022,John Ward,Male,35,105529,Entertainment,North,460.99,4
+4c50839b-2f66-448e-9542-1765e06697cb,15/12/2023,William Berry,Male,40,44072,Electronics,East,948.73,7
+5ea21d18-a6b6-4797-8c53-9d5f34bf5200,10/04/2023,Emily Brown,Male,27,98409,Clothing,West,446.38,3
+de41ab26-527c-44f4-b200-97da042e6285,01/06/2024,Theresa Bailey,Male,66,76745,Clothing,West,304.31,3
+6b3db729-5179-47a4-ad49-6e0fbb1debc8,16/12/2023,Jaime Escobar,Male,40,52431,Clothing,South,935.1,6
+060acf8c-c6cb-4fd0-9947-03a6173ca114,24/05/2023,Joshua Blevins,Female,36,91788,Health & Beauty,West,194.08,1
+3be67d74-e645-4647-b71d-644e88fc96af,03/10/2023,Jack Mccann,Female,28,42713,Electronics,South,135.14,4
+9af685b0-df48-4993-9e1b-1aacef0228f4,29/09/2021,Luis Jackson,Male,63,143278,Funiture,West,608.66,3
+a1342b16-76d6-462c-bcef-c4c7b5f14b7c,19/07/2021,Clarence Williamson,Male,53,139352,Funiture,Central,973.36,1
+3ec80da7-9d3d-4a50-b3c4-99d3456ae812,08/02/2022,Melissa Woodard,Female,21,113792,Health & Beauty,South,557.93,4
+88374dba-3ead-4aac-83d3-2dfcec4e389b,13/02/2020,Jessica Johnson,Female,48,116751,Clothing,Central,536.42,4
+0967e893-668f-4e1d-becc-07e3d97f1792,19/11/2022,Brian Martin,Female,19,118074,Electronics,East,463.4,8
+02ae5a1a-78a4-4824-8641-7a90216a8d1f,14/05/2020,Lisa Flores,Male,20,86943,Electronics,South,564.79,9
+f3c7a856-ee82-4b6f-a2df-4260e7fc01c5,13/05/2024,Robert Perez,Female,27,41738,Clothing,South,13.4,4
+3ba5ff43-8122-4f71-a753-eb7758070ded,02/08/2021,Deborah Hopkins,Male,29,144463,Entertainment,West,842.46,9
+3e0fd34c-1a03-4b64-9708-24ec887aa75e,03/04/2021,Joanna Osborne,Female,20,53350,Electronics,East,241.43,1
+4d4fc9d9-ff6a-4b13-8d9b-770f45a72d70,08/08/2020,Kimberly Franco,Female,53,143986,Electronics,South,984.47,2
+096bd056-1fb1-4135-ba86-25368a5dd159,26/06/2023,Lindsay Harper,Female,37,147171,Funiture,North,313.64,3
+418756de-eb04-45bd-a674-4a6052c03d0e,16/12/2021,Stephen Fields,Male,69,105096,Electronics,North,875.67,7
+82dd55b9-06b1-42ae-9ce5-92e612138e88,29/02/2020,Steven Boone,Male,70,56705,Funiture,North,735.79,2
+2f1b6d85-cbcb-4d92-b7fa-0e0d0f305979,08/05/2024,Christopher Sweeney,Male,23,64499,Groceris,West,956.77,5
+113406d0-8d82-40ab-be92-c5a0a0cc4c10,07/10/2023,James Romero,Male,51,120618,Entertainment,West,868.91,2
+46ce1b70-9193-4a9c-b95f-ef06d1cf5a36,09/06/2023,Kathryn Thomas,Female,37,38288,Entertainment,North,192.04,6
+8e427077-4939-4dff-ae5a-c0f95c09d618,03/12/2020,Lisa Stone,Male,33,69687,Clothing,North,509.12,6
+97c21669-39a4-4842-9ca3-eef4e8bdd051,07/11/2021,Sandra Sanders,Male,25,72581,Electronics,North,516.85,1
+e27a80da-2dbe-4d9d-a71e-03d86012a2c8,14/01/2024,Rhonda Frazier,Male,48,41381,Electronics,South,169.32,4
+e4984c6a-3521-46d8-9c54-2804f160b75b,16/07/2021,Randy Chase,Female,38,120913,Health & Beauty,Central,359.14,6
+47995d70-de75-4476-8f93-17742e75c4ac,27/12/2022,Cristina Tucker,Male,41,42288,Health & Beauty,Central,917.74,2
+276ef3da-b444-4d2e-89bc-c47546edbdda,31/12/2022,Christopher Williams,Female,39,98482,Groceris,North,964.55,5
+9b64fbe2-b58b-4043-bbd1-fedfc890a73a,06/12/2024,Laura Davis,Male,26,59349,Groceris,East,170.62,7
+ca6f7de8-61e6-4782-8b0b-3d9a4369a626,19/06/2020,Timothy Tanner,Male,69,31319,Clothing,Central,493.46,8
+d377d572-1997-435a-a529-79d55e8f73cc,28/12/2024,Barry Sanders,Male,28,71835,Electronics,West,514.15,1
+10ae793a-2dc5-40ce-8bbf-d296afc1ad70,19/11/2024,James Sanders,Male,67,48145,Health & Beauty,West,140.55,7
+034ade9b-875d-4a18-ab8c-f672f79bfc11,22/02/2023,Lynn Cuevas,Male,59,128513,Health & Beauty,West,431.08,9
+d7a549c7-c855-4837-b535-4d28dd229673,09/07/2021,Shawn Rogers,Female,49,143118,Clothing,Central,796.66,3
+76c55d06-c86f-4dcd-be79-7bedd9a5c69f,31/01/2022,Spencer Jones,Male,25,51366,Electronics,East,934.35,6
+c7ec4bc5-f2e7-4aee-9ff0-7b0300454f9a,09/09/2020,Mr. Jonathan Johnson MD,Male,68,123474,Health & Beauty,Central,443.68,9
+973b0a34-f3d9-44e9-8448-f2a2860b8a5f,08/12/2024,Gregory Roberson,Male,26,92976,Funiture,East,56.66,3
+dbb94618-5acc-417c-954c-a89ee066ca37,03/08/2020,Kari Williams,Female,64,125834,Entertainment,South,223.13,6
+e20bd376-1232-4cc2-8b80-4b799a59f218,04/01/2023,Gordon Kelley,Female,59,136490,Entertainment,East,271.68,8
+81826aeb-3b81-4453-b7a0-97d8f259ee75,11/08/2020,Kyle Fox,Male,69,138831,Clothing,West,12.81,6
+5c3ae3f3-fb29-4945-baca-86e527e4aa44,21/09/2022,Barbara York,Male,56,74308,Entertainment,Central,281.26,9
+5cca1a62-a30d-4a88-8635-73f614d2e3b8,02/03/2021,Brandon Lewis,Female,29,122983,Clothing,West,419.42,1
+5c22cba2-2163-48a5-901e-6ba5d0bd5e1d,20/01/2024,Donna Hoover,Male,70,33471,Funiture,West,257.54,7
+82148011-1b59-4025-a9a9-a5732a9aa2c3,19/05/2022,Ruth George,Male,49,26250,Funiture,West,302.48,5
+98a70f64-53bf-46e7-8819-4eaefb13de50,01/09/2020,Amanda Joseph,Female,38,120434,Groceris,East,50.2,5
+732e3b8c-3e71-4dd5-b212-c4a677f1c4ed,20/09/2023,Brenda Washington,Female,36,143139,Electronics,East,498.76,9
+4979b709-843e-413d-a66a-1da20689c5e1,17/08/2024,Angel Cooper,Male,31,95239,Health & Beauty,North,637.27,1
+4db8c68a-40fe-4ea9-ae91-40d2bf11a8d9,14/01/2024,Alan Nguyen,Female,32,35062,Groceris,South,860.93,7
+1ec47da1-9c11-44f6-ac7f-cc1b9edf1b76,16/03/2021,Tyler Carpenter,Male,29,45372,Funiture,East,478.81,5
+32f103f2-f1bc-4699-ae90-fd83d956affd,20/06/2021,Brittany Martinez,Male,47,71221,Electronics,South,542.97,9
+cb88054e-e08e-436f-a804-04733c272207,28/03/2023,Andrew Evans,Female,59,60256,Entertainment,West,193.6,1
+890020db-275f-467f-b854-bc406a48dbd7,22/02/2022,Nicole Simmons,Male,54,84819,Health & Beauty,Central,708.2,7
+1d90ad27-44ca-4b21-8cbe-12ef10839019,05/11/2024,Stacey Russell,Female,31,125681,Electronics,Central,512.41,3
+adfb0fe5-19f6-4741-a164-233c6303e98d,23/01/2024,Kevin Coleman,Female,67,75494,Clothing,South,122.88,8
+04f31f27-3f39-4f1d-b489-00166df8e834,14/08/2023,Debbie Cherry,Female,24,35637,Groceris,South,161.2,3
+625554b3-2b3d-4a59-b5a6-4228b7112b60,25/06/2020,Mary Ali,Male,19,30816,Electronics,North,650.83,1
+21e0197b-cd45-40f3-a43b-f7503b61d9cc,30/06/2024,James Anthony,Male,31,66102,Groceris,South,807.49,6
+95ab8d5c-2af3-4127-bdb8-f7176f7dd4cf,07/11/2022,Rachel Figueroa,Female,19,131100,Electronics,Central,304.25,3
+71584b4d-0ec9-4249-8c01-f4c3a3341c33,10/03/2020,Gabriela Brown,Female,60,46420,Health & Beauty,South,373.53,6
+55350cc8-ae67-48bc-bdd1-006f6cb966c2,12/12/2023,Nancy Le,Male,68,68319,Funiture,Central,649.83,8
+b7d2b06e-fb61-4a60-929a-dd0cffcea95d,13/03/2023,Arthur Byrd,Male,63,27855,Health & Beauty,East,492.75,1
+e4494cb2-96ee-4450-b9cc-f88147f0daab,31/12/2024,Stephanie Castillo,Female,46,149507,Electronics,East,235.96,8
+ecba4026-e818-4147-9571-92706baf0ac6,14/08/2022,Angel Whitney,Female,26,132880,Clothing,North,842.54,3
+4f9bd612-56eb-4342-ae3f-e139d3d701ad,25/05/2022,Kristin Davis,Female,45,41033,Clothing,North,906.09,2
+b9fbd707-f7ee-4c7d-9eb9-afd729435694,11/07/2022,Benjamin Waller,Female,33,146286,Funiture,West,636.26,6
+da1b8a0c-a0dc-466e-a7bc-4c18b91e306c,15/03/2024,Renee Blackwell,Male,46,44388,Clothing,Central,127.65,5
+a31a2afd-15b9-4349-a9a3-f76c95ec2a61,25/01/2024,Adrian Haney,Female,69,109640,Funiture,South,257.55,4
+343436c7-b012-453a-ad2d-e1f973f4d549,19/02/2022,William West,Female,67,81234,Health & Beauty,Central,595.69,4
+0e87feaa-5919-4e14-819f-a8ef8a172062,27/10/2020,Samuel Reilly,Female,51,147405,Entertainment,Central,313.66,8
+11d20701-ea19-41aa-91f7-876b05d32760,14/10/2024,Samantha Hayes,Female,26,78170,Funiture,West,602.23,6
+489ba259-bfb5-466e-a2f1-62db63fc6039,15/01/2020,Christopher Jackson,Female,18,120636,Health & Beauty,West,580.29,2
+a5194b82-615a-44ab-a877-0fe39dacea8a,16/07/2024,Melissa Payne,Male,68,52913,Groceris,South,318.76,8
+473d7818-8c84-4808-9e94-66fe13694048,31/03/2023,Sarah Jones,Female,23,44443,Clothing,West,662.51,8
+600c0d59-aada-4fb9-8e40-a074c9dbb0f0,15/03/2022,Amber Brock,Female,36,138814,Clothing,East,59.51,5
+55eddcbe-7c36-4b08-9919-6e3814b9daff,08/10/2023,Matthew Mendoza,Female,40,142283,Clothing,West,771.13,5
+010f558b-f5ed-4531-bedc-0b854fd8b633,08/11/2023,Kathryn Clay,Male,36,109301,Electronics,West,549.41,3
+04e98cd1-1c5e-4880-8d4c-7dc4758c64bd,24/05/2021,Lisa Durham,Male,53,76810,Electronics,North,686.86,5
+2a866e74-77d9-4577-b3ee-9f23b210457d,22/10/2023,Joshua Mason,Male,48,103252,Funiture,West,122.79,8
+fbd928d4-4e17-489a-94f2-056b4213803b,04/03/2022,Bryan Bennett,Female,49,136482,Funiture,West,315.13,9
+e118caf3-afb0-44c6-b528-b6b3a4ba8561,10/12/2024,Joseph Mcclain,Female,29,105496,Electronics,East,761.26,5
+b791db11-b4ca-4c9a-84e8-d1a95596dd0d,29/12/2022,Charles Stevenson DDS,Male,57,31074,Entertainment,West,785.64,4
+b43bc1dc-ea71-4402-a8ac-660076365d84,15/02/2020,Patricia Foley,Male,54,139257,Funiture,North,829.49,1
+e71355ca-9b7f-48b3-a280-7f5d9d0a8d7e,03/11/2022,Jessica Barron,Female,49,29737,Electronics,East,739.02,9
+dea2e792-7f23-476b-b47a-5b20e97ffbd4,27/01/2023,Kayla Blackwell,Female,62,47786,Funiture,South,99.66,5
+5615f046-acb0-40db-9076-322c141c1ac5,29/02/2020,Mark Lopez,Male,58,38661,Entertainment,North,279.85,1
+e0ecc7eb-8a47-4d93-828a-ac9930c705c4,06/09/2020,Lisa Cunningham,Male,66,103819,Entertainment,Central,3308,8
+fa155327-0c71-4e13-926f-c3c51c60bc9b,14/07/2022,Russell Taylor,Female,63,125236,Funiture,Central,509.72,1
+679d93e1-7c5e-419d-81a7-ae0440391de7,14/01/2021,Gwendolyn Cooper,Male,22,58669,Funiture,East,574.11,7
+f54d646d-d24a-48f0-a43a-c09b6a6fedb2,31/08/2020,Vincent Smith,Male,70,26002,Groceris,West,21.63,8
+da1e9a4b-2a5b-4128-b1b4-dde2ff88afba,21/02/2020,Angela Osborn,Male,25,69425,Groceris,South,143.75,2
+6e4f8480-2c0f-4f57-ab06-b3da7c43a4ec,08/02/2020,Jack Jackson,Male,51,28093,Groceris,North,696.19,5
+0a108fca-073d-47ae-a343-8fdb52d80077,11/10/2022,Jonathan Carter,Female,61,134492,Clothing,Central,720.36,5
+70778010-a5ff-4926-86a7-2fbb7e6d12ce,06/06/2023,Bruce Page,Female,59,116297,Clothing,South,723.19,8
+580672db-b88d-43bd-9b97-400c012c9b36,07/11/2022,Jason Bush,Female,49,130739,Clothing,West,823.52,6
+8d9d2f35-01f9-4718-a80b-9983ef14a0a1,07/09/2021,Angela Sanchez,Male,37,131898,Funiture,Central,121.26,8
+00fe2924-b932-476e-ace5-1d2b939b8be9,10/01/2022,Kylie Mathews,Male,42,118890,Health & Beauty,East,957.56,1
+27d03839-9888-4f74-96d3-2e212470cf46,05/01/2021,Morgan Moody,Female,42,45653,Groceris,East,214.85,5
+a3d4aeda-6cff-4e41-ade5-711cc86b3bd7,12/03/2020,William Ramirez,Male,54,110708,Health & Beauty,North,654.93,4
+0c7e93d5-d3fc-4f67-afcd-2ce60fe4b074,20/05/2022,Katherine Brown,Female,35,67198,Electronics,Central,75.52,1
+4104cbb2-fe0e-4384-8bae-a548a0961d04,22/08/2022,Gloria Brown,Female,43,100749,Clothing,East,71.82,2
+55ea5e30-125b-4daf-8c22-b729c8461a82,01/06/2024,Jessica King,Female,54,73113,Health & Beauty,Central,358.42,6
+3afbbeb5-852f-4efe-8cec-a778dd158665,31/01/2021,Maria Acosta,Female,62,125370,Entertainment,North,415.41,4
+45909e9d-86a7-48a1-a83d-e82cb6c7e540,14/08/2021,Matthew Werner,Female,57,110957,Electronics,East,839.33,3
+c8ff1284-c4d6-46dd-94e5-8541293440ac,10/10/2023,Lisa Harris,Female,65,74120,Health & Beauty,East,937.99,8
+a7fc6f2e-4c24-4085-a702-cd688bb6292d,22/05/2024,Robert Simpson,Female,46,144771,Funiture,Central,869.87,4
+ae53a05a-9eb1-436d-99ec-bce5b70c288e,05/07/2021,Jordan Robinson,Female,61,78341,Electronics,South,655.92,2
+5d38d9ca-66b9-4d86-852c-3f3b9fcdc61d,17/02/2023,Dominique Nichols,Female,68,99643,Health & Beauty,North,849.04,6
+617bb336-10c9-45da-b8bb-95d260cda9c5,29/08/2020,Ashley Calderon,Female,70,133733,Clothing,East,170.41,1
+81683813-1ae8-4b3e-b1e2-48c23ad8da74,14/11/2020,Laura Kane,Male,47,121047,Electronics,West,97.44,2
+b094c956-56f1-49a0-b5eb-084dfa4ef553,27/02/2021,Elizabeth Moore,Male,45,69083,Health & Beauty,East,746.75,4
+df9a6948-0b2c-4b29-83dc-a6e588b8a7b5,16/06/2021,Amy Baker,Male,70,45806,Clothing,East,822.59,2
+60e35b28-db3b-4405-be9a-5b319b3512a8,26/07/2020,Nathaniel Briggs,Male,46,25593,Groceris,East,175.55,8
+8bc6d546-73cf-4417-8126-0b8088eda8b2,31/05/2022,Lauren Cabrera,Female,22,93266,Health & Beauty,Central,941.32,6
+2070b707-f96d-4122-9a80-5ec3de5a2a93,02/08/2020,Jordan Carr,Female,47,48523,Funiture,Central,470.7,9
+5d026c3c-28e3-45e5-ae11-e00926ff29b9,08/01/2024,David Becker,Male,67,124725,Entertainment,South,80.37,7
+bda2ccb7-2810-41e2-a6d6-8dfadb71d1c1,03/09/2021,Gregory Johnston,Female,46,101222,Clothing,North,139.16,8
+24cf7ab7-8159-4e8e-9f8c-4222ad814b94,19/12/2020,Edwin Higgins,Male,41,111288,Clothing,North,705.48,1
+af24d869-fd41-4e79-ae66-d355d13e5235,13/07/2021,Eric Wilkinson,Female,26,97871,Funiture,West,83.13,4
+5bf08e8c-8310-41fb-b8f1-d58827689025,27/06/2024,Michael Castaneda,Female,28,134512,Entertainment,Central,349.68,8
+0dd1ca49-ba86-4a1d-91a5-8114eb17541a,25/05/2024,Dr. Michael Carpenter,Female,40,95602,Funiture,Central,73,5
+1356bd94-a7e1-4cf3-9e5c-7487cb7453ce,17/12/2020,William Burgess,Female,42,94536,Health & Beauty,East,438.61,6
+2496335b-5879-4ce3-8750-85a74917305c,01/06/2024,Stephanie Gilbert,Male,28,131436,Entertainment,West,253.13,7
+7bfd8571-0720-4b93-9e56-00d031d0ddbb,12/06/2021,Stephanie Roach,Male,54,29937,Funiture,East,417.97,1
+b7b32862-33c4-4f70-bcd9-16dd34039725,06/03/2022,Jennifer Bell,Male,65,73711,Funiture,North,837.16,1
+a423faff-7596-451d-ab13-b641e2e80927,05/11/2024,Paul Ortiz,Male,24,69553,Electronics,North,293.6,8
+55f8fc00-6cfe-40a1-8521-0d088383eeb5,08/02/2021,Karen Jacobs,Male,62,39579,Funiture,North,824.59,6
+d85263d0-f48a-4a8e-bb9e-4512875a9059,19/01/2020,Brenda Cook,Male,54,84958,Electronics,Central,340.2,2
+d6c54165-a3e0-4c8c-8103-65c3926537c9,06/07/2021,Benjamin Gonzalez,Female,31,63480,Electronics,North,876.81,2
+88b2cc36-ad77-42e5-99f9-caeab519e143,18/06/2021,Mrs. Brittany Bowman,Female,29,91286,Groceris,South,43.29,6
+b397933a-c962-4fc9-9b07-632cdbd05c85,08/06/2023,Nicole Reyes,Male,61,106060,Funiture,Central,934.79,6
+05a71d0a-22ab-440c-96f7-f2378cf29f94,09/07/2021,Jessica Gutierrez,Male,70,72937,Entertainment,Central,521.38,7
+792dcc95-0977-44fa-928b-fd3a6c6e7863,25/02/2022,Justin Cabrera,Male,42,76379,Entertainment,West,688.73,8
+e53a9321-a580-4204-ab13-d3afb4702fa6,10/05/2021,Kayla Haynes,Female,44,89025,Health & Beauty,East,10.84,6
+78e2b4cf-0b89-432c-b34a-d5b8569e9a3a,15/11/2024,Allison Zuniga,Male,45,91334,Electronics,South,797.79,4
+c960eb8d-22ee-4429-9d6c-9f846265ad54,19/07/2024,Michael Young,Female,35,56955,Electronics,South,783.72,2
+7b8748fb-32c7-49a5-aab0-13b3b1781553,20/01/2023,Jack Jackson DDS,Male,44,91325,Clothing,West,220.52,1
+fea51ca7-b28f-484e-be36-39e4872541a4,07/01/2023,Darin Barrett,Male,31,28318,Funiture,East,553.91,2
+ee989355-b9a1-4b3f-8045-9268defb8efb,08/08/2020,Lisa Frazier,Male,64,48538,Clothing,East,890.81,9
+2782eb95-af36-494b-baeb-90c1a06ca6b7,29/05/2023,Mrs. Miranda Lewis,Female,50,112321,Funiture,West,326.48,5
+c8e00a46-ca63-4d7f-89a1-c582200ce771,07/02/2020,Daniel Ross,Male,68,48716,Clothing,Central,294.02,9
+721892c2-9194-4e92-83ec-5b78eeceaa4d,15/05/2024,Jesse Bates,Male,47,50925,Clothing,West,891.05,4
+ffd6aa97-2d54-4706-916f-1b2c4d97f44c,16/04/2020,Erica Alvarez,Male,18,137631,Groceris,Central,776.37,2
+287de251-3a1f-4bff-bbbd-478998c2f317,13/07/2022,Timothy Rose,Female,54,84645,Funiture,North,157.58,4
+549c5bdb-cb1e-43d4-b138-061795aeef56,20/01/2023,Peter Lyons,Male,21,128147,Entertainment,East,379.18,9
+ef91f036-3bb1-4b7b-94a2-952616386eba,19/09/2023,Adam Bautista,Female,26,123593,Funiture,West,996.55,7
+d7c5ec65-0327-4bb5-a0a4-ecf091735dc0,15/08/2024,John Harvey,Female,50,59372,Entertainment,North,468.34,8
+acc10318-d2ea-4f02-b948-e3bcfd4faac0,27/06/2023,Bernard White,Male,50,106929,Entertainment,Central,925.23,8
+71dcb8ae-792f-44c5-a0d7-0be4c1d0a0ea,16/03/2024,Ian Woods,Female,57,76806,Clothing,North,247.45,2
+d47079e4-6c49-45d8-ba31-1652d1936cad,03/07/2024,Danny Wilson,Male,19,63981,Clothing,North,363.3,8
+3c0556c4-0000-453e-b8d6-959319b4a80b,27/07/2020,Gary Shaw,Female,31,25670,Clothing,North,763.17,7
+d7b0f214-2bfb-41b7-a43a-936f052e7d85,18/10/2023,Terri Smith,Female,37,102895,Health & Beauty,East,62.44,5
+23dfa2f9-0788-4e32-a615-c2b1709116c6,26/01/2020,Charles Gill,Male,49,140074,Funiture,Central,190.35,4
+e37ad9e2-90ac-4c4a-8ef3-80b2c3e97b6d,10/05/2024,Donna Richards,Female,59,110617,Funiture,North,276.56,6
+d88e0977-61d0-4b11-ad7a-76130b43aa37,02/12/2021,Kimberly Alvarez,Female,42,120856,Electronics,East,110.82,8
+b2e439e9-43b1-4554-9c02-fcb1ca00fa1f,12/11/2023,Martha Garrett,Male,34,130306,Health & Beauty,East,501.91,6
+04302797-3754-460f-b60b-e79df8f89ba5,12/11/2021,Diana Kennedy,Female,19,108979,Health & Beauty,South,148.97,6
+9810781c-6a90-46b1-b88c-ff5bf7b24a33,08/10/2021,George Baird,Female,65,138304,Entertainment,East,38.52,8
+e68d47a7-42bc-49ad-9896-35c27d7268ed,05/02/2023,Thomas Rhodes,Female,23,144215,Funiture,North,945.16,4
+8de21ca5-619d-4216-8442-a440b9e3126e,19/10/2022,Caleb Randall,Female,23,140212,Electronics,East,234.33,9
+2cf6bf42-6c4c-481a-85dd-23e996439fb2,20/03/2023,Anna Sparks,Female,19,67179,Funiture,North,11526.84,7
+a01bfe2c-be05-40f3-857c-a9997b07532f,20/10/2020,Steven Jones,Female,66,60502,Electronics,West,911.2,9
+969451cc-8db8-449e-979b-cd21df0445b0,09/03/2021,Adam Williams,Male,69,119172,Clothing,West,488.53,9
+5bc4235a-a11a-4869-9acd-efdb6cc5d683,19/09/2022,Alexandra Jackson,Male,65,42926,Entertainment,South,299.69,4
+1e629e64-3d94-47a8-ac1f-d9174f8a90a5,12/04/2023,Kenneth Williams,Female,44,79620,Clothing,Central,21.92,3
+b0d51fe3-3139-41c9-9323-bc1e559cd4da,10/04/2024,Jo Hernandez,Male,51,87546,Electronics,South,514.71,7
+2b1a0c1e-c2ec-4d57-8773-ceab47f2388b,07/06/2020,Jason Merritt,Female,20,131862,Clothing,West,755.11,8
+b61e4279-2832-41b8-b578-1ff06de4db9b,26/07/2022,Daniel Frost,Female,24,144115,Clothing,East,579.48,2
+a9120fb0-4160-4484-9e35-46bf5b720516,21/03/2023,Kenneth Olson,Female,69,144283,Groceris,Central,169.09,6
+acaf2257-81d1-4e9f-b4e0-7ef362115234,17/02/2020,Cassidy Davenport,Female,37,30693,Groceris,South,40.89,8
+38958a3c-de6c-412f-bb44-e7860513e35d,27/02/2024,Chloe Arnold,Female,65,76295,Electronics,North,894.54,2
+cb5bd17e-a566-4564-968b-0bcf50dc13ff,13/02/2024,Christine Scott,Female,35,89597,Clothing,West,739.92,5
+e902744c-a6ae-44d0-8888-4b512fe88d99,14/07/2024,Susan Shepherd,Male,50,58610,Clothing,Central,266.06,6
+0b856309-b7f8-4cfd-8c84-ac5e4a16e7da,12/03/2022,Lisa Walker,Female,23,132516,Electronics,East,558.18,1
+a7950c85-de7e-4da7-9b34-934c9f890a16,30/06/2020,Stephanie Mcmahon,Male,43,40724,Health & Beauty,Central,113.85,8
+a454454c-9ffb-4b96-b13a-98e2d5fbc424,28/01/2021,Tiffany Jackson,Male,20,92961,Health & Beauty,East,115.97,4
+08734105-f59b-445a-8b4f-7ad96123c0e7,03/01/2022,Morgan Johnson,Male,63,108738,Funiture,East,994.99,2
+60f29c11-a91a-47e5-92ce-9d2b4c7ad6ef,01/02/2024,Andrew Kerr,Female,57,41890,Entertainment,North,811.94,3
+1574fe60-a416-4bb6-af8d-8c45995b2ebf,14/05/2020,Angela Chapman,Female,18,139313,Funiture,Central,317.95,3
+13ef016c-787a-4112-aa32-f338763fee0e,03/01/2020,Timothy Cooper,Female,49,148673,Groceris,West,533.23,9
+44a90362-eb70-4173-a331-22ad1fbf2fe7,03/03/2022,Nicholas Robinson,Female,29,108655,Clothing,South,781.95,2
+8d6391d6-0ca2-4e5a-bde9-2a8d77d844dd,08/04/2023,Richard Bailey,Female,36,115920,Groceris,Central,571.2,7
+3bbf84e3-c688-4a75-a948-a0c5e99ac90e,08/02/2020,Amanda Allen,Male,60,65484,Entertainment,Central,510.49,8
+fa897585-8d17-4d47-82ba-2663200378a0,11/10/2022,Mr. Joseph Griffith,Female,45,101543,Groceris,South,496.68,9
+54d34210-5760-45a8-a211-6fe702448d29,10/11/2024,Kim Rhodes,Male,26,118987,Electronics,West,232.17,1
+beb85f4a-e1ef-4ad6-b817-1fa7a71d351f,25/09/2022,James Collins,Male,47,128989,Groceris,Central,930.72,1
+c9f9c5f7-d5e8-4a69-84df-6302d2e16a04,18/05/2021,Cheryl Holloway,Male,32,113282,Clothing,North,458.46,9
+2369d13c-4056-48ac-bfe1-11cb1c9a2556,13/04/2020,Ian Ferguson PhD,Male,22,45798,Clothing,Central,701.85,1
+ba3d93b1-1bff-4e59-9170-861dc3883136,26/06/2021,Jermaine Patton,Male,43,95581,Groceris,East,367.34,6
+e73db379-37a3-4bdc-8a3d-e8eb8c2455d2,02/05/2022,Sarah Collins,Female,21,26609,Funiture,Central,331.69,9
+1badb0c7-d7a3-459f-a3d5-bd0d6ad805be,07/04/2021,Terry Neal,Male,49,119970,Funiture,East,735.25,8
+9e352ff4-7dbc-498e-95cb-89156d712678,08/10/2022,Alexander Carter,Male,35,136041,Health & Beauty,Central,448.42,8
+f483ed2f-0afb-4a50-9710-928b1a277bab,07/10/2023,Laurie Conley,Male,54,139270,Groceris,North,172.74,4
+1a5e6b1a-b2e5-47aa-a764-39ca8bd430ad,02/08/2023,Amanda Miranda,Female,42,75112,Clothing,Central,84.67,1
+81b9a515-67d5-44b3-bdad-ee706627676f,22/08/2020,Kevin Lowe,Male,29,145087,Entertainment,West,965.21,3
+221146ae-8d58-455f-b6ba-a812c73fa9b8,31/08/2020,Teresa Kirk,Male,24,119049,Funiture,Central,529.57,7
+74dfe96e-2408-4530-b03b-4327c1b76dd7,20/11/2023,Rebecca Nelson,Female,52,124962,Health & Beauty,North,573.28,4
+5184e9af-70b3-4d0f-9677-7a5baf56f15d,01/07/2022,John Green,Male,41,67319,Clothing,North,485.84,8
+33ea7f77-c78b-4214-8aa2-b0e432e00456,09/04/2023,Billy Jennings,Female,70,39467,Funiture,North,22.72,4
+1f519019-ed33-4ced-94c9-403bffa83196,25/04/2020,Audrey Cooper,Female,26,106247,Groceris,North,75.95,5
+4f78c806-85c8-422b-90d1-294be7bdbba8,17/11/2022,Shannon Collins,Male,43,137426,Health & Beauty,South,774.87,5
+09ce887c-2784-48ac-8ffc-50d7ad390c7f,25/02/2022,Anthony Jones,Male,35,42825,Groceris,West,309.04,1
+ec9f1605-3414-44be-9357-680040d174d8,29/06/2023,Mrs. Jamie Carpenter MD,Female,22,29789,Health & Beauty,East,314.25,7
+cd8c6328-8e43-4d44-93bf-fc829b6611e5,23/09/2021,Michael Rodriguez,Female,67,61580,Electronics,Central,497.17,5
+48e30c03-e177-4826-9543-edb4c6529979,19/05/2021,Alexandria Kerr,Female,31,142607,Funiture,East,948.01,7
+727c566d-01fb-4820-8998-69afb90c7f2e,01/01/2021,Zachary Burke,Female,68,57791,Entertainment,North,33.05,6
+74697487-41f2-4687-a579-cb02796bfff9,22/06/2022,Christopher Cook,Male,26,144891,Entertainment,Central,533.16,1
+5cc8bee7-ad56-4612-abdd-d36e9b907ef1,06/02/2023,Mckenzie Brennan,Male,39,83694,Funiture,North,901.47,9
+fa6d6a1d-687d-4a8f-8b06-fa24a71ba051,30/06/2020,Brendan Newton,Male,27,100616,Entertainment,North,585.54,3
+21438030-dfd9-4d6c-833b-1363a09528eb,10/10/2022,Shawn Johnson,Male,40,55536,Clothing,South,685.53,1
+607c428b-c213-45e1-96dd-70f94ba742f6,06/03/2024,Allison Evans,Male,40,123727,Clothing,North,658.71,4
+a0f72dab-e148-4181-80ff-72cccf65f95c,27/01/2023,Robert Grant,Female,18,129650,Health & Beauty,North,684.33,6
+67a2d6bf-4e73-4866-9fd9-a47369024c48,07/11/2021,Brianna Sanchez,Male,28,27423,Clothing,North,306.47,7
+5e179d64-fcbe-494a-b09d-e03161f29a23,23/02/2021,Sean Smith,Male,37,146404,Health & Beauty,South,642.09,6
+3da535cf-6daf-49e8-a0cd-a194067dfdd8,16/03/2024,George Wong,Female,26,80566,Groceris,North,619.29,4
+379438ba-37db-4897-a8eb-1d7b0318e549,30/08/2022,Michael Sweeney,Female,51,111903,Entertainment,West,628.01,2
+8855d290-7d02-41b0-8c81-1e5ea41a808b,09/09/2021,John Leonard,Male,39,68241,Clothing,East,171.73,8
+4e53446a-f051-46e7-a4dc-faa5e0f65711,22/11/2020,Jonathan Jenkins,Female,24,52761,Entertainment,East,765.93,1
+c77678c7-c8ff-46ee-ac40-d4786efe2547,23/02/2022,John Watson,Male,49,89803,Entertainment,West,500.63,6
+134344be-5ade-44ec-b6c1-2df78d7b5161,28/06/2023,Bradley Cruz,Female,56,69182,Entertainment,North,391.94,9
+e24584ac-28a7-43de-8769-6bd46446c893,12/04/2021,Travis Allen,Male,67,115533,Electronics,East,697.59,3
+91297a8d-7ddb-4cc3-a583-a08f6b140284,23/03/2022,Bryan Robbins,Male,40,126614,Funiture,South,485.62,8
+ec49860b-95ca-4885-a420-aa2359271a79,17/07/2020,William Nelson,Male,18,86776,Groceris,Central,853.99,3
+47b554ce-f482-4884-a342-61f21798fee0,01/10/2022,Amber Frederick,Female,58,129955,Entertainment,South,449.22,5
+387807fc-de2a-4f27-8929-2fb635c5e554,30/05/2023,David Nelson,Male,63,103046,Entertainment,South,206.25,5
+b7c5055e-932f-4e33-a3ee-c94129f13e08,31/12/2023,Christopher Luna,Male,70,34682,Clothing,North,94.69,6
+b76fd8e8-f9b3-490f-b04c-52ef9764d282,23/10/2021,David Larsen,Male,70,90484,Health & Beauty,South,409.61,8
+eff12335-9313-486a-ab3c-28c7ae84ac9c,09/05/2024,Lisa Brown,Male,59,29710,Funiture,South,577.09,9
+bbfc9389-3517-4d36-8c42-02a4ad8bc4b9,11/10/2020,Kimberly Anderson,Male,25,101429,Health & Beauty,South,538.18,4
+f45e4b0b-15eb-4cc9-88a6-1e4a70002af5,25/01/2022,Patrick Thompson,Female,42,145927,Groceris,North,414.83,6
+89f90185-b2f2-414e-a48b-f8009b1a9fad,10/03/2021,Courtney Wells,Female,45,29563,Clothing,West,456.8,4
+df5907db-3c51-4c54-afb8-609c7b03ddf8,10/02/2021,Stephen Wise,Male,22,120933,Groceris,North,714.28,9
+80e9914e-13ec-4238-b433-5d5ba9537629,01/12/2022,John Williams,Female,45,137952,Groceris,East,765.51,9
+2fff5c23-8bf0-43eb-bd1e-7075aab31422,12/03/2021,Michael Schneider,Female,18,120989,Electronics,South,592.84,2
+5b7e2f74-2d56-4a4a-8fd8-d12ca3ce9d1b,04/11/2021,Jonathan Singleton,Male,26,118200,Health & Beauty,South,229.28,7
+6fedf2f5-d5ef-4d83-952c-15f30dc39705,16/08/2021,Daniel Cooper,Female,30,33543,Clothing,Central,449.19,6
+d02c6214-c64c-4cd9-9dd5-859cc9b48f83,06/03/2021,Rebekah Simon,Female,33,48961,Funiture,Central,169.58,5
+55cdca44-c0f7-4e0a-be39-c0c1b79a1c17,28/01/2022,Ryan Mccoy,Female,31,37072,Health & Beauty,North,223.84,5
+f83575eb-8667-4deb-96a2-6a32cb7313c5,20/02/2022,Samantha Price,Male,28,74011,Electronics,North,216.05,5
+a4128638-2a9e-4b3e-a3cd-74ab7ceed873,19/05/2022,Cynthia George,Male,49,93511,Groceris,West,538.84,3
+8bd0fb5f-4d53-420a-8ca7-0ed987f7caa3,31/01/2024,Christopher Macias,Female,19,58777,Clothing,South,418.07,7
+6eb61105-a57a-4b4d-8388-2c7e4f23aa7c,26/08/2020,Andrew Simpson,Male,24,80574,Electronics,West,448.03,4
+6e2812da-70e2-4413-85bc-8aec3c6f368e,01/05/2023,Kevin Brooks,Female,44,133131,Health & Beauty,East,322.45,8
+e08b468c-9357-41c7-b8ed-65521c817544,27/12/2020,Ernest Terry,Female,54,118015,Clothing,West,967.48,6
+c2345fd0-7bc2-460b-b3bb-39e298536ae4,24/09/2021,Sue Thompson,Female,49,103237,Health & Beauty,East,485.51,9
+3db70713-18b4-42a5-acdf-dd72a8fb6e9f,11/05/2023,Victor Harris,Male,27,112995,Clothing,West,185.07,8
+3b98a37d-7e16-4949-af78-1ad5286dd978,26/06/2023,Gina Evans,Female,40,106251,Groceris,East,190.27,4
+7b1957ef-3f64-46c4-bcb2-c9e0cb5df569,03/06/2021,Maria Howell,Male,64,77940,Health & Beauty,West,942.53,8
+66402e70-f434-4013-b871-16f7b2e10175,06/05/2023,Kevin Ross,Female,24,56818,Entertainment,West,536,5
+e2b0bc3f-e32b-49e3-87e0-0a84334733ac,27/07/2024,Thomas Williamson,Male,55,97383,Electronics,West,350.42,7
+a7df80d6-fb89-4ef2-b339-343d9845960c,13/09/2024,Scott Walker,Female,68,69896,Health & Beauty,North,102.4,1
+eb97213c-93c9-4cfd-a20d-ecfe8d7619e5,13/07/2024,David White,Male,41,45212,Clothing,West,337.14,8
+42fae4ab-b74e-4f77-b4a1-342348556fd1,06/08/2020,Andrew Fischer MD,Male,25,115095,Clothing,South,644.71,9
+60a64a8d-0328-43b0-8b82-336d47ec47dd,04/09/2024,Michael Williams,Male,69,104605,Health & Beauty,East,21.13,4
+6205cc92-735b-42c8-9443-19fce1886496,14/03/2020,Teresa Walker,Female,53,43297,Clothing,North,340.8,4
+249f9b10-170c-44a7-b0c9-b69d24ee5871,13/06/2024,Martin Alexander,Female,53,111811,Groceris,North,554.88,6
+545daa58-249a-4d26-9e48-be76e3c6f7a3,29/05/2023,Sydney Williams,Female,22,96581,Electronics,South,467.54,2
+1c720c41-5ac6-49c4-99db-233a32ed12b7,31/07/2021,Autumn Dodson,Male,30,45580,Clothing,North,861.65,7
+94247248-adc5-4cfa-a1ca-bf3207566e6e,19/03/2023,Tina Reed,Female,35,122327,Health & Beauty,East,624.43,1
+5bae2592-7ec0-4358-9461-232c2533177a,27/09/2023,Juan Black,Female,21,111000,Groceris,Central,258.27,4
+8b00f542-0d94-44b2-a3ab-ac12811ee8bd,05/04/2024,Kelly Gray,Female,30,45090,Groceris,Central,477.55,3
+e66088e5-2420-4bfa-8a80-c6f2390476a8,13/07/2021,Lisa Wilson,Male,42,112613,Clothing,South,554.53,6
+b31437dd-a8ef-4248-b5a1-aff2b942436d,02/05/2021,Marilyn Carlson,Female,43,25053,Funiture,South,334.59,3
+5f3c668e-7c84-4eb7-ab59-da3eca266d62,05/11/2024,Lindsey Sawyer,Male,57,97081,Health & Beauty,West,245.69,7
+7e673e21-dc9e-44bb-afdb-5b15025aa042,31/01/2023,Troy Mejia,Male,56,119292,Funiture,Central,976.12,2
+30f6c626-4179-4304-aeb0-786f8059a125,15/06/2024,Sara Carr,Female,58,59388,Groceris,Central,436.28,1
+f51e8606-0d37-422a-bb35-67b75541624c,11/05/2020,Patrick Williams,Male,28,63513,Clothing,North,730.37,3
+044e18c8-7743-4eb0-a239-b6517048b8bc,08/07/2020,Brian Carter,Female,34,122652,Clothing,East,631.82,9
+e6019429-3a62-4148-9b8e-27ec248f8246,21/10/2022,Cody Olson,Female,34,107173,Clothing,West,931.31,8
+73ddaf20-4e0f-4219-9c0e-e724c38b2c57,14/09/2023,Scott Hill,Female,65,75405,Groceris,East,257.17,2
+39d84666-6dc6-42cb-bfe7-a040e2c5bb4c,14/07/2021,Cynthia Anderson,Male,62,33975,Health & Beauty,East,973.55,7
+a8db50b8-19d3-478c-a496-931dd175c1b1,13/01/2024,Erica Harrington,Female,20,144685,Funiture,North,589.09,9
+3269c27d-dd0c-4037-b08d-6720f4e21da6,08/11/2024,Mark Saunders,Female,38,26662,Entertainment,East,858.26,2
+46e6707f-2783-4987-8dc6-ab2cab4f6ec1,06/06/2024,Richard Norman,Male,61,28156,Electronics,East,591.86,3
+4cb7e562-e760-41ca-872f-b6e59ffd1150,23/03/2024,James Walters,Male,41,27965,Groceris,West,417.85,5
+6f4b9e72-2c40-49b0-9d2d-59452bd43887,31/07/2024,Patricia Shaw,Female,61,60144,Electronics,North,149.8,8
+cfabd376-db74-46a4-89e9-88b4d63bf0f2,09/05/2021,Carlos Smith,Male,56,80155,Groceris,Central,237.86,7
+8f21f157-1863-4b3c-91c2-2c44af32dfe3,14/08/2021,Jennifer Briggs,Female,47,54545,Groceris,North,380.99,2
+048c70e7-dc62-414f-bb8a-2e24e11499f5,09/11/2020,Heather Mitchell,Male,55,101741,Health & Beauty,South,308.46,5
+0e3f6956-2948-4845-a99b-b26ce55e3112,06/01/2023,Mr. Keith Mitchell,Male,20,43213,Groceris,East,868.06,9
+4f02dab1-b27d-4ccc-8325-e0fcd6180c25,08/07/2020,Brandi Barnes,Male,60,63457,Entertainment,West,487.58,6
+3fed3e0e-87c4-4cc7-930f-ad499818f422,11/01/2023,Tracey Sawyer,Male,66,36469,Entertainment,West,527.62,9
+1a974ff9-46c2-4e80-b6d9-e300c349ebb8,25/12/2024,Brad Mathews,Male,65,112303,Electronics,South,581.93,2
+5acbfbac-6d5e-405b-8262-7901554265e1,03/02/2020,Jay Jackson,Female,58,55393,Entertainment,Central,184.3,7
+1a752634-3b2a-4178-bbba-b8bc568b9b46,19/06/2020,Janice Roberson,Female,62,104478,Funiture,West,630.16,9
+8c2fdbcc-f086-41b2-a8dc-6638ccac4ba3,24/08/2020,Jessica Reynolds,Female,55,140561,Health & Beauty,East,660.38,4
+161c32db-fdf2-445c-b389-0a197d3493be,03/11/2022,Brenda Humphrey,Male,69,140728,Electronics,South,654.4,8
+eb9c8916-0cc9-49eb-92ba-2445a0f0bf65,19/03/2022,Amber Hernandez,Male,37,99551,Entertainment,West,959.59,6
+d4c77a64-7a57-47e7-87f5-9f125e1d05b5,20/12/2020,Kristin Arnold,Female,55,124396,Entertainment,North,809.93,4
+3f264752-bb8c-486e-91b2-3299eb7d49a3,26/10/2024,Stephen King,Female,52,72309,Clothing,West,555.48,9
+0cacb02a-4acb-425d-aed5-77e40b7b4d13,20/03/2024,Marilyn Little,Female,58,133806,Entertainment,North,271.06,7
+97174556-ea08-4883-b7d6-1d3e3ab30477,09/11/2021,Angela Zimmerman,Male,65,42080,Electronics,North,928.16,4
+a268916e-589a-4f71-b1bd-066d14d2b477,23/06/2021,Karen Howell,Male,63,48908,Electronics,Central,512.86,4
+c7791513-37c0-47e2-ad6b-3cd11492abe0,17/10/2022,Stephanie Miller,Male,22,75839,Funiture,West,461.72,2
+61db7afa-f66f-4e14-91d6-cac031e43bc4,30/01/2021,Stefanie Obrien,Female,67,118229,Entertainment,North,316.87,1
+71653cc4-0be5-4be0-8c07-e80001bf0c26,27/04/2024,Kimberly Sanders,Male,57,87759,Groceris,North,271.54,6
+ca7dd797-e4dc-4fd6-b968-273f5ef27f2c,10/01/2020,Michael Vaughn,Female,69,128818,Electronics,North,99.97,9
+a04c927e-f092-4af2-8849-f3d792f5821c,22/04/2024,Gregory Johnson,Female,53,74355,Clothing,West,792.22,6
+d3b61085-8373-4044-8682-a94d79e3f67c,07/03/2022,Jacob Marquez,Male,44,51225,Clothing,South,731.95,6
+766f54c2-17ae-45cf-bd43-2c360b7c23f4,30/08/2020,Kristina Camacho,Female,26,78869,Electronics,North,124.87,4
+a688c98b-02a4-4e97-8c69-5b777312a2ad,01/08/2021,Kristen Reed MD,Female,59,58041,Groceris,Central,499.21,7
+02417286-2333-4676-91c7-80e834139e26,31/07/2023,Rodney Santos,Female,61,92213,Groceris,South,292.78,8
+7e477fab-c54b-4670-8d3c-a539dcec960c,28/10/2024,Michael Blair,Female,39,128223,Clothing,North,933.98,3
+2018f2f1-ea9f-4b5a-89ee-c3c3860f7ab9,10/06/2020,Belinda Smith,Female,35,103768,Funiture,Central,818.49,7
+24ce7def-c1de-4a2d-b453-0137608639fd,11/08/2020,Dr. Dustin Graves,Male,29,40747,Entertainment,South,871.92,5
+7085c376-c276-4ff0-8a4b-a41cdc4f1a0f,13/03/2021,Tyler Bishop,Female,27,97262,Health & Beauty,West,700.37,1
+238dc4b0-2cac-4efa-a22e-dee36dd619eb,04/03/2021,David Harper,Male,24,51851,Entertainment,North,147.69,7
+5bab6781-050c-45ef-9c30-c26ac1d39a3a,28/05/2020,Kelsey Mason,Female,60,57969,Clothing,South,631.2,6
+31a18e4e-77e5-4bd0-8707-3a4ef7d83926,21/10/2024,Amber Christian,Male,28,33596,Health & Beauty,Central,473.41,1
+af81f4d1-d5f8-4ff0-87c2-d4d0438b1bdb,07/05/2024,Melissa Franco,Male,19,118580,Groceris,West,682.52,1
+1e25b8d7-c878-4d26-84f4-973d2bc78b72,07/10/2024,Christine Thompson,Female,50,116398,Groceris,Central,681.3,4
+c223b1ab-7dea-41bd-8cc0-83f0bfda7d8e,05/05/2022,Catherine White,Female,56,74180,Groceris,South,91.5,4
+4a4e0a8d-58c8-4615-b12b-14038a68988f,21/02/2020,Christopher Walton,Female,53,82039,Health & Beauty,Central,862.56,4
+ed538c2f-4430-4ab0-8595-233c9de78476,19/04/2022,Brian Brewer,Female,32,119023,Groceris,South,566.48,5
+6f3de65d-13ca-475c-88a3-33e98d2f6596,06/06/2020,Julia Martinez,Female,38,120929,Clothing,North,697.91,1
+a04057dc-77ab-4eec-b8f6-660ad32420ed,06/02/2020,Robert Zimmerman,Male,63,149660,Health & Beauty,West,453.34,8
+960a8a6c-13ce-46b0-9f45-b26b8e153dc3,14/11/2024,Joseph Johnson,Female,58,86511,Entertainment,West,55.57,1
+af716931-777e-4187-b9fb-22d7bb14f540,27/10/2022,Veronica Willis,Female,70,122454,Entertainment,East,548.84,5
+3338d8d2-5c9d-4f48-8f45-aa3e62240b74,15/02/2023,Victoria Peterson,Female,52,54298,Entertainment,East,504.02,5
+644908f3-36f9-4c4b-a762-266e87d91cae,08/04/2020,Brett Powell,Male,70,89827,Groceris,North,535.29,1
+145134a8-9cf6-4a04-81cb-89462ae0a157,23/12/2021,Chad Henderson,Female,23,130290,Funiture,Central,186.93,9
+ea925899-4ab1-4eab-9fab-4fe76b7c4f03,21/10/2020,Luis Scott,Male,58,34839,Clothing,West,422.36,9
+40bd4a8b-7996-4e8a-83bd-9ec4d6fed355,11/04/2022,David Luna,Female,33,85430,Groceris,East,706.22,9
+61afecb8-dd89-4db2-8494-df21ec4e7bd0,11/09/2023,Brandon Thompson,Female,57,76439,Groceris,East,67.22,5
+ee7b4c11-9d89-4d7f-a534-e2467f960bd6,22/10/2020,William Rose MD,Female,50,142844,Electronics,North,65.65,5
+b6875180-80fa-4d80-b6aa-2ef45122b4f1,01/01/2024,Michelle Waters,Male,52,54862,Electronics,West,60.72,2
+1cdbea37-d949-4871-8d24-c08f9410fa0c,15/09/2020,Ryan Gray,Female,34,32398,Electronics,South,232.86,4
+6c907d9b-70bd-4ee1-b536-41c5817379ae,31/03/2020,Caroline Smith,Female,44,30127,Entertainment,South,829.81,7
+2c46a19a-67b4-495d-8022-b9d5e6cdb8b9,24/09/2020,Crystal Cline,Female,70,73709,Funiture,South,483.75,1
+217380d5-8077-4246-83f3-dbaf12e85845,05/12/2024,Jeffrey Davis,Female,37,56669,Electronics,West,824.77,2
+e2184eea-252f-4368-8b46-5b2ca420e9d7,21/12/2023,Justin Hernandez,Male,27,140579,Health & Beauty,Central,973.88,1
+d74e12e3-d15f-4e0d-bf97-6eae787296ce,29/04/2023,Haley Ponce,Female,36,62497,Funiture,West,913.01,1
+6b091c15-0138-4dec-a37f-01d820a537ee,01/09/2024,Jennifer Robertson,Female,51,135594,Entertainment,Central,990.5,4
+9af24705-4e26-4d7a-9157-3d2bf4230783,19/01/2021,Gloria Adams,Male,47,114380,Electronics,North,446.66,7
+2e0aa39e-d4c2-4084-86b5-a9519524febc,10/05/2022,Erin Wilson,Female,59,123510,Funiture,Central,360.63,3
+7f6f21e6-2e0c-46d8-b4cb-ecf185d87926,26/12/2022,Madison Gordon,Male,51,66645,Health & Beauty,East,770.42,7
+c9dda446-6b90-4dfb-b993-416e170e4bb9,09/12/2022,Kylie Perkins,Male,18,134247,Entertainment,East,256.23,9
+5d5fde74-876d-4ca8-bc24-ee01c8fade75,15/04/2022,Caroline Benitez,Male,18,60978,Entertainment,East,589.37,6
+e32b857f-3564-4a78-8f64-3f681b009b8f,30/07/2020,David Mcguire,Female,31,148227,Entertainment,South,800.38,2
+418adc51-66da-4454-8cea-8cf69dabc22e,08/06/2024,Jeffrey Banks,Male,67,26984,Funiture,Central,108.96,5
+5166760f-3f7b-4f25-8a7a-81695ff9b983,06/04/2020,Andrew Garza,Female,19,42994,Clothing,West,12.42,9
+8e0b79ea-fc38-4209-8172-f07fe8846d86,04/06/2024,Kathryn Jenkins,Female,51,109905,Groceris,West,628.1,8
+eea157e6-62b1-4231-b805-ae1f3a490ef4,06/07/2023,Patrick Juarez,Male,30,145767,Health & Beauty,North,733.36,4
+647bedfb-4880-4222-9cef-f671459c39d7,22/11/2021,Jonathan Collins,Female,51,114100,Groceris,South,300.93,6
+821dfb08-c8ac-4856-84e2-b6782c3452b4,25/11/2021,Jamie Avery,Female,44,86253,Electronics,West,583.09,6
+caf26497-05d3-438b-8770-9eeeefaad4ab,12/03/2023,Elijah Martinez,Female,38,85525,Entertainment,South,141.08,1
+1c813c4f-3c3f-4d3b-831c-3e5ab3ae728d,03/03/2022,Paul Knight,Male,29,37106,Groceris,South,945.19,1
+5288db6f-8f54-4698-a718-1af9affec87b,17/05/2022,Travis Hall,Male,57,85386,Health & Beauty,South,614.07,1
+ece58729-5ee1-482c-a905-c65f54b88f20,03/06/2022,Ian Lloyd,Female,28,50915,Electronics,West,516.67,4
+f943d2f4-45d7-4f32-80f0-c12811f3ae09,05/02/2022,Stephanie Curtis,Female,36,59924,Clothing,South,257.14,4
+cc8780f8-be1f-49d2-a69a-7c55e67197bd,20/01/2024,David Kennedy,Male,41,41121,Entertainment,West,630.12,4
+fdbaf287-91d3-4f52-8ee9-959c470099c6,08/01/2020,Mr. James Hughes MD,Female,56,30486,Health & Beauty,South,905.02,8
+439c3c0d-fb9e-4eba-bc7b-c6577ea85e5f,01/10/2021,Debra Rogers,Male,52,130751,Health & Beauty,North,394.28,1
+b3dbecbe-0607-4ced-85ed-da7227cc3534,06/03/2020,Tyler Kaufman,Male,69,118564,Entertainment,North,297.69,2
+ef513e0e-7390-4d5c-9c71-6731de698f1d,08/02/2021,Timothy Stephens,Female,25,94567,Funiture,West,802.72,8
+508ff8ce-3816-4b72-967f-87cf6e27fb1b,25/11/2022,Eric Rowland,Male,47,94724,Entertainment,South,297.32,1
+c00ee4e1-574a-4d89-b418-f6b035920b40,25/08/2023,Michaela Duncan,Male,47,41535,Health & Beauty,East,304.77,2
+30b181bc-4920-4613-bd27-5df1657506ba,05/01/2024,Kyle Armstrong Jr.,Female,43,110938,Funiture,North,797.52,3
+19d38fef-229f-4614-b694-71c7528380d3,07/09/2023,Victor Davis,Female,22,36453,Entertainment,West,544.29,3
+d922689c-8f22-41e0-be7d-a9148080f8ba,13/02/2022,Daniel Watson,Female,41,119962,Health & Beauty,South,154.45,7
+1a252266-5441-4fc7-b9c9-7af96af43e67,09/08/2023,James Sanchez,Female,20,135809,Entertainment,East,418.06,3
+ab6b3711-77bc-4e39-a681-9f7ac80f19ef,21/01/2023,Robert Brady,Female,46,95940,Health & Beauty,West,832.13,6
+c530da14-c275-4684-ad4a-e3a041d0d564,27/08/2023,John Herrera,Male,25,29898,Groceris,East,918.59,8
+5f5ee7c5-d0df-4a1f-9628-a93c0672c16f,29/09/2023,James Craig,Male,33,123646,Entertainment,North,891.82,3
+cc39155e-042a-42ba-9986-ed5874e5f8b1,15/12/2023,Rebecca Jones,Male,56,128010,Health & Beauty,West,199.57,2
+3024c389-489a-4f7e-90f0-fdb543f7a006,19/12/2021,Ashley Meyer,Female,69,147796,Entertainment,West,818.04,9
+1b6039a4-317f-4c03-8bff-8ae97d68469a,01/11/2023,Lauren Pittman,Male,57,84926,Entertainment,North,494.9,9
+327c18fd-7fed-4833-a2e4-201c85f40d59,23/02/2023,Roger Everett,Male,26,142092,Funiture,North,819.59,8
+579865e9-308c-4362-8893-db8c4f6c5a92,10/07/2020,Stephanie Davis,Male,69,148162,Electronics,South,245.32,8
+45ad6ccf-8fb0-4859-8969-04c8b64a51ec,27/06/2022,Lori Taylor,Female,60,96718,Funiture,West,771.93,3
+6734b9fc-b570-4201-a78b-c587f59ff658,24/04/2020,Lauren Navarro,Male,26,146241,Funiture,North,374.82,4
+2efd12a6-e36d-47c2-8249-c292b26dbed9,29/09/2021,James Thomas,Male,45,111848,Groceris,Central,819.72,8
+d0fd6781-e6c5-4720-91dd-9fd4a4ae9cc5,23/10/2022,Julie Hudson,Female,61,132477,Health & Beauty,Central,240.9,4
+f402d4a5-4b55-430e-a9ce-ae1854af4a2b,27/09/2020,Adam Gomez,Female,47,101306,Electronics,South,81.66,9
+7b61c267-c482-456f-9bc3-bdd8ab9290c8,22/11/2020,Kathleen Ford,Male,63,113272,Clothing,West,795.28,6
+cf01d553-9063-4c46-b2c5-d4a73a3e144d,28/09/2020,Margaret Hall,Female,65,112262,Electronics,Central,947.6,1
+74610836-3583-4f6a-bf86-d94947ef48cb,22/08/2022,Angela Smith,Male,22,71586,Clothing,South,406.67,3
+69e0be65-952c-41a0-abf2-96d036a5fe77,03/08/2022,Kyle Wilson,Male,55,126006,Clothing,North,49.39,1
+2569cf50-66e9-4fc3-8171-a12197b4d382,17/04/2020,Stephanie Chavez,Female,34,45690,Entertainment,Central,225.39,4
+a7743a44-5320-4cb8-9d4a-7176307e1ee0,09/09/2022,Christopher Haas,Male,34,73125,Groceris,West,842.35,9
+ac372395-e482-40b4-95c7-3cc701a736f1,20/06/2023,Amy Mitchell,Female,24,57446,Clothing,North,491.59,2
+f8ddeedd-7147-4993-9dd6-8643b795d2fa,19/11/2022,John Hunter,Female,34,98655,Funiture,South,955.82,9
+d976e827-3bec-4b0d-982d-fb9fc84b3b20,29/03/2024,Amanda Adams,Male,23,121577,Funiture,West,844.26,9
+d7657eec-6cd9-46c5-b1b3-5c2456b9c556,09/11/2023,Chelsea Goodman,Female,22,115006,Groceris,North,434.06,3
+a049889f-d0a0-45b6-900d-6b8d94f52f4b,25/09/2021,Steven Sweeney III,Female,54,72117,Funiture,East,585.45,1
+0f88fb39-b448-43bc-94ad-51f96ed668c9,09/10/2023,Brian Cole,Female,25,127236,Electronics,North,865.31,5
+60430686-c7e9-46ff-a2af-84ee2e02ca5e,28/10/2021,Jesse Perez,Male,25,43631,Clothing,East,282.98,8
+2f62922f-9614-4f2f-8c95-cd4b29ad6ffd,18/11/2023,Kelly Barnes,Male,24,92133,Groceris,West,111.08,2
+19fcb9f7-b5be-44ba-875b-af66fd331f23,15/07/2024,Brian Sanders,Male,39,46911,Clothing,Central,17.87,9
+ac975d0b-46a6-4cd3-bcba-17d66ace0a92,30/07/2020,Gregory Russo,Male,24,143345,Funiture,West,678.55,5
+c4eb855b-8064-4557-8c4c-6ed6652c05c2,09/10/2021,Shawn Turner,Female,62,52945,Funiture,East,233.12,3
+7e2b6981-718b-4528-aab1-331f29129a4c,02/08/2022,Danielle Ferguson,Male,58,126204,Clothing,West,136.75,7
+5d13c1d0-08de-4238-bbba-ab2649fdce7b,28/04/2020,Dorothy Frederick,Male,49,59898,Electronics,East,371.9,9
+cb3d0579-f38b-45f7-9acb-6ed4aa1abfef,25/06/2020,Mark Hughes,Female,59,138123,Entertainment,East,209.35,1
+e5e9da44-30fc-440a-b7eb-2dbf36675726,30/04/2023,Melinda Hensley DDS,Male,23,92392,Clothing,South,620.36,2
+55364014-62e1-47a5-bc77-311a566e0b51,14/10/2021,Stephanie Hawkins,Female,55,101167,Clothing,Central,120.88,5
+1493f227-ec05-43d4-9987-c35cce2ee7bd,28/10/2020,Christopher Baldwin,Male,24,37993,Clothing,Central,283.33,3
+1f1c6ae1-5ea5-4384-91fe-864270128bd8,31/08/2024,Andrea Gonzalez,Female,52,80251,Clothing,Central,395.79,9
+dea3b91d-43a0-4016-9894-bc2698fd2f1d,08/01/2021,Nathan Joseph,Female,69,58623,Electronics,Central,342.8,2
+57c3e47f-e3e8-413e-8e5b-943f7a2373ba,17/11/2020,Scott Smith,Male,59,44138,Entertainment,North,73.56,2
+e932c795-c5d0-44ab-9b52-795b97afaf8f,08/03/2022,Robert Phelps,Male,31,138335,Groceris,Central,367.83,5
+1b5d0e13-5ab0-4674-bb19-091d457069ef,28/01/2024,Dana Munoz,Male,35,145749,Electronics,East,381.19,2
+79858112-39c4-423a-8319-3d3aa7983c22,29/09/2020,Amanda Roberson,Male,43,56308,Entertainment,South,933.68,6
+1e7b9cf2-8cda-43b4-b55e-9f661a901645,27/02/2020,Ann Hartman,Female,55,35564,Health & Beauty,West,537.7,9
+b7d0129e-f95e-48fa-a3d0-bccd458186d3,04/07/2020,Brandon Perez,Male,28,99759,Electronics,East,922.06,5
+0340c229-95ff-4e08-9f11-6db65189bcc2,14/09/2022,James Lam,Male,21,61043,Entertainment,North,521.01,9
+0af93d88-8328-4256-9e2b-85f33a3eb5f6,23/04/2023,Charlotte Franklin,Female,64,47528,Funiture,East,748.95,5
+59604257-a41d-435b-af14-2edcda1d4481,06/05/2024,Adam Whitney,Male,48,69885,Health & Beauty,West,90.88,7
+d8eba6c6-f9a5-4b7d-8458-6545ab8d6a86,10/01/2020,Michael Taylor,Male,55,118070,Groceris,South,209.49,6
+d0a5d4da-09fe-45ba-8402-ab00ef286e50,15/06/2024,Michael Velasquez,Female,42,107026,Entertainment,West,329.92,5
+a292bb93-3703-45e0-bd98-237e2595e773,20/10/2022,Maria Freeman,Female,27,58814,Clothing,Central,602.43,4
+5ffa5288-f860-48ba-9f85-5e0c946bed93,13/10/2021,Kristine Roberts,Female,35,118532,Entertainment,North,129.42,1
+340ec911-33a6-4b13-9782-b8552f181585,29/03/2024,Kimberly Rivera,Female,27,41140,Funiture,West,949.87,8
+ba096e05-a3e2-47b5-a5f3-4287f9213e2f,23/06/2023,Amanda Roman,Male,34,27101,Funiture,South,623.04,2
+92caf33c-611e-4fa3-8be0-12670ea41701,27/02/2021,Andrew Young,Male,49,129830,Entertainment,North,754.26,1
+68bd5184-1925-40c3-8be5-0aaa4c7f682f,06/08/2020,Chase Gonzalez,Female,32,31555,Health & Beauty,West,597.45,4
+d3702a78-ad9b-47e9-8924-678bade2fc0a,14/02/2020,Michael Wallace,Female,59,110635,Health & Beauty,South,654.75,4
+092d4994-7f9d-4b38-9789-0c08bb7d9210,20/08/2022,Mary Blanchard,Male,58,59856,Health & Beauty,East,925.71,4
+04039492-c45c-4f81-870b-3b81f49a6f36,02/08/2023,Brian Smith,Male,32,44622,Electronics,West,362.33,3
+966d453c-47e0-4b72-b5a2-9c4efd379c5d,27/10/2021,Barbara Wyatt,Female,37,118835,Entertainment,East,943.74,2
+f2f7062a-0195-47ca-afec-00a097a968ad,03/11/2020,Tara Wood,Female,44,76675,Clothing,Central,639.84,7
+953f78c7-1fcf-41ab-b179-20113eff440f,16/10/2022,Erika Sanchez,Male,19,124616,Health & Beauty,West,754.1,4
+e1110158-ae9c-416d-9a42-9f6c8bbc8b4c,24/07/2024,John Phelps,Female,41,95052,Entertainment,East,461.73,9
+1d72fd86-8b92-40d0-ab9f-4c66c92a4842,21/07/2021,Jeanne Scott,Male,57,133312,Entertainment,Central,786.01,5
+f77c62a8-40e1-4a29-bdba-ee243309f899,18/04/2021,Steven Strickland,Female,57,141165,Funiture,East,265.14,3
+f16c7ea4-640a-4e06-be73-316c39016f01,12/09/2020,Nancy Long,Female,19,91123,Funiture,West,159.63,8
+cbfd6937-c63c-447e-9146-37c3c9f774dc,18/11/2021,Gregory Burns,Male,53,94088,Funiture,North,77.75,6
+a200f545-aed5-4359-829c-bd698bcd6fa4,23/08/2023,Angela Smith,Male,42,57512,Entertainment,East,612.55,5
+3431ff4c-3a81-49c8-8a47-09b91f34bec4,24/12/2020,Tina Knapp,Male,45,112475,Health & Beauty,North,380.69,4
+1a125a09-bf06-4d82-9fdf-3c0ff147926b,01/08/2022,Wayne Holmes,Male,56,40068,Groceris,East,688.35,6
+ba55032c-0dd6-4a05-b039-b01541875d14,25/08/2021,Michael Thomas,Male,65,78110,Electronics,East,888.82,3
+a49b6c92-4cb6-4930-aac6-c396f7f2907c,23/12/2022,Zachary Mcintyre,Female,52,41552,Clothing,West,706.82,7
+4c13c128-f013-479e-8b40-975bd400b0a6,22/10/2021,Ana Garcia,Female,43,26099,Entertainment,South,3959.9,8
+eee3c405-bb10-4122-9de3-dbd38a494e41,22/02/2021,Deborah James,Female,63,77517,Electronics,Central,510.8,2
+485ea80d-21c4-4bff-9553-5d243a251982,12/08/2020,Dr. Michelle Rios,Female,67,70379,Entertainment,South,367.33,4
+e571f6f6-2893-4f36-921b-67ff0d894c15,29/05/2021,Anna Jones,Female,51,28387,Entertainment,West,150.69,1
+f80f0cb3-bd46-4773-986f-218b9dae7a89,28/09/2020,James Jones,Female,62,139833,Clothing,South,796.61,3
+d54f53f0-eb02-4f4a-a6b5-5b4a825cc8ad,23/05/2024,Kimberly Casey,Female,48,121694,Groceris,West,95.49,4
+0b1abfb1-0131-4139-a16a-ad7359b4fc4c,26/09/2024,James Chan,Male,18,115062,Health & Beauty,East,356.65,7
+a0e92f35-56dd-4b5f-bc7d-a25a7daf76bb,04/06/2023,Keith House,Male,58,129853,Clothing,East,358.2,7
+3fa7b081-4f50-4e93-881a-6ea486c87bcc,10/10/2024,Timothy Robinson,Male,59,58015,Funiture,North,694.87,7
+30e7e6d0-6f7a-4794-866c-3b5b5ffc8152,23/02/2022,Daniel Russell,Male,25,51013,Funiture,West,678.57,8
+ee6d5f83-1610-4612-ac9e-97823f9ecbe0,28/05/2020,Willie Campbell,Female,52,34398,Groceris,East,590.82,6
+31348fff-4700-4fe5-bdfb-8e441443f7ba,06/10/2022,Christopher Johnson,Female,70,130444,Funiture,South,848.49,6
+059cd49b-674f-44e7-84f2-e98f94eb0438,27/08/2020,Mark Rogers,Female,57,104310,Electronics,East,853.05,4
+edad2733-ae32-4be0-bf0f-92052cdc74d8,25/12/2023,Kayla Peterson,Female,60,102447,Groceris,Central,761.17,2
+f96f9cad-eaf4-448d-8f67-4165d6c12b05,02/12/2022,Brian Johnson,Female,53,72950,Electronics,West,503.63,7
+27257825-0432-48eb-98bf-08ae8cbf1963,16/11/2021,Jessica Jordan,Male,46,42266,Entertainment,Central,951.72,2
+149f3e53-7286-4fd3-a242-2a029981cadb,18/01/2023,Martin Barnes,Male,62,85633,Electronics,North,761.9,3
+f4deb5d2-a10c-43a2-99ea-819bae315ef3,19/09/2020,Kellie Hamilton,Female,52,131941,Funiture,South,768.97,7
+82872397-177b-43dc-9a18-6850d65d400d,28/03/2023,Sarah Molina,Male,18,120168,Clothing,West,481.75,8
+201dd33a-fb4d-4a81-ac0f-179be0eac5f3,16/12/2020,Matthew Gardner,Female,45,137643,Electronics,South,131.9,6
+234f5085-9d12-42fc-b5dc-6cef86fda266,13/05/2023,Tracey Grimes,Female,29,29789,Funiture,North,535.74,8
+b952e291-6872-434d-99ce-5efe87523656,27/08/2022,David Bright,Male,24,86479,Clothing,East,804.87,6
+fde2a078-f544-4840-a48a-cd15ad2a423b,18/05/2024,Robert Mora,Male,56,133709,Clothing,East,289.9,2
+cd4a32fc-7848-4d39-992e-d670487cfa77,01/04/2020,Christopher Roberts,Female,60,80260,Electronics,South,444.94,5
+a9c69f4e-4df1-47fa-b2ce-015da06eb970,12/12/2020,Linda Garza,Female,33,142961,Clothing,West,307.9,1
+ddd70011-8c42-42b4-84c2-490bc1172a2c,10/04/2023,Theresa Garcia,Female,47,66840,Health & Beauty,North,752.62,3
+9b2b485d-14ef-4e27-a806-efd2bb0820e3,18/12/2023,Christine Foster,Male,41,55818,Groceris,North,985.98,4
+fa61451a-754e-431d-b28f-3b64ab5cadf4,14/11/2023,Christine Phillips,Male,20,26932,Electronics,West,211.28,4
+cf283a82-c39c-4d94-bd76-631df224681e,15/06/2024,Fernando Rodriguez,Female,18,125782,Entertainment,West,758.03,8
+eb6f3ba5-72b6-4a6e-8062-771c5278de59,11/03/2021,Emily Harding,Female,68,33955,Health & Beauty,East,528.08,4
+94a687ed-b697-4a82-972b-526b43289720,27/06/2021,James Griffin,Male,22,146465,Clothing,North,744.89,3
+24eb304d-bfe4-4bd2-907d-b8fc04a59068,14/01/2022,Amy Davis,Male,66,105191,Health & Beauty,East,801.16,9
+9702d5b7-f44c-4ef7-8840-6579a33a9d37,06/10/2021,Scott Watson,Female,35,62665,Entertainment,East,15.88,5
+d6693037-223f-4134-9adc-e3cb5aa58a66,10/06/2021,Robert Brooks PhD,Female,21,63140,Electronics,Central,45.88,9
+57c5d16f-6cd6-4c50-85ba-cabdf46efd49,22/10/2023,Jimmy Kirby,Male,66,56136,Clothing,Central,785.61,5
+186b0e95-c9e1-4f73-934a-aabe890f80a6,27/08/2020,Lindsey Fischer,Female,69,105431,Electronics,Central,337.38,7
+44e3117e-34fa-4bae-b0de-080c1074f003,09/01/2021,Erin Baker,Female,31,122742,Funiture,East,603.32,6
+c118c1cf-275a-4280-958e-7722642ce73f,23/06/2023,Michael Fowler,Male,41,44927,Groceris,Central,539.28,4
+24eba2cd-5371-4ac1-b721-48a34ddf0f63,16/10/2023,Cassandra Dean,Female,64,89742,Funiture,Central,467.15,6
+cde0d7e8-24fd-46e4-8192-278df3fc2be0,23/09/2021,Sandra Oconnor,Male,26,83092,Groceris,South,568.92,3
+d928985c-96a6-4627-8772-01de8eedb976,23/07/2022,Sarah Bright,Female,24,120714,Groceris,East,237.22,4
+ffc71bb3-02ab-4350-9078-4576d09dd445,20/06/2022,Diane Matthews,Female,70,100115,Health & Beauty,West,604.78,4
+d550503f-3aa0-401f-b024-f37f15dd360c,08/06/2020,Chelsea Estrada,Male,45,96975,Entertainment,Central,584.27,9
+944f5bea-db5e-4462-94c9-ccd7284b4501,30/11/2022,Michael Woods,Female,70,95737,Funiture,East,13.61,1
+d14975f1-8f84-4cb0-88ea-820ba53debb3,28/04/2020,Benjamin Butler,Male,34,67585,Health & Beauty,South,401.73,9
+ad850aa2-ab35-42e0-8a05-bf93e0aa4e6d,08/01/2021,Mary Williams,Male,19,62153,Funiture,South,2847.6,1
+44bcef92-f016-4c56-a903-23393e76a0e0,12/06/2021,Ronald Moreno,Male,55,59094,Entertainment,South,190.98,3
+6136bf44-6ffc-4ba7-8fe8-e0e3c3934a4c,31/07/2021,Joan Ramirez,Female,19,116670,Health & Beauty,Central,153.4,2
+982948c5-ce3f-4be0-b644-662ecb652db4,02/09/2023,Janet Garcia,Male,45,78977,Health & Beauty,East,659.04,7
+f7a47f80-12a8-4f8f-8ec0-7863c32a6556,03/06/2022,Erin Martin,Male,31,45563,Entertainment,West,332.15,6
+f12fa184-7262-4b55-a69d-ae32db3985b0,10/09/2023,Theresa Moss,Male,19,110869,Groceris,North,110.44,1
+54e837b0-e104-40ba-8294-a0dc235f5b16,08/03/2020,James Moore,Female,46,77593,Clothing,South,118.42,2
+479a98db-02b8-4884-ad01-0a1b4c08377b,25/01/2021,William Hawkins,Female,32,55130,Health & Beauty,Central,143.72,2
+7ce8de79-df22-4e9f-9014-945518e1a4c5,16/03/2024,Andrea Avila,Female,49,42003,Groceris,North,940.23,6
+cd403321-13b7-4892-93c3-c2dd12bae6f8,07/02/2023,Sarah Taylor,Male,49,129344,Electronics,South,979.24,6
+88380dea-2ee1-4877-992e-b666844cf151,16/02/2021,Thomas Anderson,Male,41,54070,Health & Beauty,West,972.61,8
+b64c3a3c-4b5f-4536-ad41-0f89cfd4cdf7,08/01/2020,Leslie Cordova,Male,67,97399,Entertainment,North,262.58,7
+1bc84324-ddb3-4c55-acff-7b0f922da97e,31/08/2022,Anna Johnson,Male,63,42381,Entertainment,North,858.4,7
+07bb9041-b19c-42a1-bf1b-692901abf8a0,22/03/2021,Jodi Young,Male,48,53700,Groceris,North,767.99,6
+0ff38ade-4057-4653-be74-d8452795e9d2,03/01/2024,David Dalton,Female,21,63506,Clothing,West,826.59,4
+d04ed291-a5cd-4952-95dc-46c3a3ce03a5,27/09/2023,Harry Kline,Female,45,52300,Groceris,North,377.13,8
+f76e7d6d-2c55-4d18-8299-b63e6de7dcfa,18/08/2024,Cynthia Pierce,Female,61,73182,Clothing,East,743.43,1
+9f856c07-a4e3-4d6b-9cf2-b0579bf3a85c,09/01/2021,Jessica Roberson,Female,45,118532,Entertainment,South,402.78,5
+b632a277-aa94-43c6-8347-a9e236a0ebae,05/01/2023,Mrs. Charlotte Middleton MD,Female,35,137887,Health & Beauty,East,929.42,9
+991d8fa8-f76a-4164-8db5-c3e5ac53985a,18/07/2021,Ian Johnson,Male,37,40822,Funiture,North,267.13,5
+ea0ec8c0-bf3d-49e2-be3b-37de5555f474,20/02/2024,Timothy Moreno,Male,28,94225,Funiture,North,370.98,1
+da73782a-253e-4a2e-b89c-1e55849f0691,29/04/2024,Lauren Jones,Male,39,81985,Health & Beauty,South,367.99,6
+59e5e126-378d-4ba2-929b-f57a8b7a8aa4,13/01/2022,Patricia Lewis,Female,52,83732,Clothing,Central,446.25,1
+1d89671c-6b3c-43d7-83a5-b7ab338d96dd,20/03/2022,Ronnie Porter,Female,22,98486,Electronics,Central,112.03,4
+fdff5b60-d973-4e7d-97b0-8dc09d3f9d5d,25/07/2021,Valerie Brewer,Female,29,98283,Electronics,Central,830.61,2
+70d05054-bee9-4809-bfd3-29c1655f94df,30/03/2023,Sonya Johnson,Female,56,110783,Entertainment,North,532.93,8
+1f63ce92-7462-434b-bf76-86346d111b69,08/03/2021,Jamie Baker,Female,31,101322,Entertainment,North,521.06,4
+553f2363-e343-4ae4-b55b-16218f5acc37,03/08/2024,Jeremy Hernandez,Female,52,90581,Funiture,North,352.79,5
+bad2470d-1316-4fc9-a182-c6fcef55dcdc,06/12/2021,Susan Fry,Female,54,88851,Health & Beauty,Central,505.77,5
+b0255e42-a2b5-49a7-a8cd-fc3329928967,14/01/2022,Benjamin Hinton,Male,36,31978,Clothing,West,740.72,3
+0904e059-8fec-47d2-a4fa-e346383c22db,09/02/2024,Alicia Knapp,Female,41,132030,Groceris,Central,50.36,8
+b3e3a5ef-e390-400c-9e80-a562bed6cb29,12/12/2023,Paul Crawford,Male,51,142730,Health & Beauty,East,643.41,9
+95ba75dc-5b48-4913-9d01-7e01c2dbcd87,02/02/2021,Thomas Watts,Male,22,132272,Clothing,Central,658.3,2
+a871c5ac-3152-48b4-9487-bbe5c3fb2d4a,14/09/2021,Benjamin Ingram,Female,50,66240,Funiture,South,7055.9,6
+a107462d-416c-4e25-b3f1-5d35d02e8671,12/06/2023,Kathleen Carson,Male,19,76695,Funiture,South,192.91,8
+c302f4c6-866d-422e-882b-70a297af4d41,12/07/2023,Nathan Garner,Female,36,127045,Funiture,West,34.01,1
+ef293d56-545e-43bf-950d-6428a8025061,17/02/2021,Anthony Campbell,Male,26,54185,Entertainment,Central,259.69,2
+31b66124-1bcc-43a4-8368-920c07da1739,30/07/2022,Madison Flowers,Male,57,37874,Groceris,East,14.04,6
+d967854d-538d-495e-bdd2-9d7e469e21ff,23/04/2022,Madeline Mckee,Female,19,49020,Groceris,West,492.55,7
+81b6c316-50b5-4955-b1df-ad33a784435c,26/06/2022,Cody Bowen,Male,54,104708,Electronics,East,769,7
+5ff2101b-4cce-48af-9b5f-e020b40caf4c,28/01/2024,Monica Wu,Female,67,117276,Health & Beauty,Central,576.35,8
+a9c41e60-433c-4131-b52f-66dde3af3ec4,30/06/2022,Bonnie Moore,Female,32,135780,Clothing,North,979.96,5
+358bc712-e655-4409-a0e1-9fbbba58eb73,17/02/2020,Shelley Rios,Male,46,25453,Clothing,West,197.9,8
+ec746763-47ae-4c26-b5e5-15e13775d693,04/09/2021,Kristin Morrison,Male,20,79737,Clothing,North,58.54,1
+e958a60e-6808-452b-9716-d0258eac5dbc,22/11/2022,Michael Lewis,Female,58,35231,Electronics,West,736.65,3
+a423faff-7596-451d-ab13-b641e2e80927,05/11/2024,Paul Ortiz,Male,24,69553,Electronics,North,293.6,8
+e5565fb0-93f3-47a0-9015-c612ed0a66b2,20/12/2023,Gregory Moore,Female,69,34084,Health & Beauty,East,221.73,9
+e902744c-a6ae-44d0-8888-4b512fe88d99,14/07/2024,Susan Shepherd,Male,50,58610,Clothing,Central,266.06,6
+78e2b4cf-0b89-432c-b34a-d5b8569e9a3a,15/11/2024,Allison Zuniga,Male,45,91334,Electronics,South,797.79,4
+7bdf6000-d898-41c8-b199-cb67a506ab4e,29/09/2021,Dr. James Whitehead PhD,Female,64,116174,Health & Beauty,North,428.3,8
+50f36582-0097-4a8f-92bf-24382a235bff,25/01/2024,Melissa Moses,Female,50,34145,Entertainment,North,519.08,4
+b437e756-f19b-4e28-ae27-3860c8ba7a63,13/01/2021,Kim Acevedo,Female,52,139357,Clothing,East,426.81,8
+ae01e5a2-212a-4f8f-928e-2e2d1526dace,25/04/2020,Grace Jones,Male,63,139180,Health & Beauty,South,904.69,3
+ff5f1fc2-26ee-4d8f-bd29-158dbbb044b1,05/06/2022,Charles Jones,Male,66,92594,Entertainment,East,213.14,8
+3afbbeb5-852f-4efe-8cec-a778dd158665,31/01/2021,Maria Acosta,Female,62,125370,Entertainment,North,415.41,4
+ac975d0b-46a6-4cd3-bcba-17d66ace0a92,30/07/2020,Gregory Russo,Male,24,143345,Funiture,West,678.55,5
+d85263d0-f48a-4a8e-bb9e-4512875a9059,19/01/2020,Brenda Cook,Male,54,84958,Electronics,Central,340.2,2
+d8c0ce7e-2368-489d-8d17-03607b2662c5,03/03/2023,Christopher Murray,Male,36,90340,Electronics,North,979.71,8
+f76e7d6d-2c55-4d18-8299-b63e6de7dcfa,18/08/2024,Cynthia Pierce,Female,61,73182,Clothing,East,743.43,1
+44a90362-eb70-4173-a331-22ad1fbf2fe7,03/03/2022,Nicholas Robinson,Female,29,108655,Clothing,South,781.95,2
+c77678c7-c8ff-46ee-ac40-d4786efe2547,23/02/2022,John Watson,Male,49,89803,Entertainment,West,500.63,6
+8872dc59-5e38-4494-ba90-c1919abb8b33,13/10/2024,Andrew Hahn,Female,55,141531,Health & Beauty,East,748.8,7
+0ef64f3e-9727-4a3b-865d-92c2ff663416,01/10/2023,Sara Tate,Male,44,40767,Clothing,South,160.34,4
+edad2733-ae32-4be0-bf0f-92052cdc74d8,25/12/2023,Kayla Peterson,Female,60,102447,Groceris,Central,761.17,2
+bf15a654-db90-4ff6-b1c8-c5bec66f0238,26/10/2021,Noah Brown,Female,56,77315,Clothing,South,451.95,8
+d6693037-223f-4134-9adc-e3cb5aa58a66,10/06/2021,Robert Brooks PhD,Female,21,63140,Electronics,Central,45.88,9
+31b66124-1bcc-43a4-8368-920c07da1739,30/07/2022,Madison Flowers,Male,57,37874,Groceris,East,14.04,6
+666f3b8e-e33c-402e-8a6e-7689309228b7,19/12/2020,David Kemp,Female,57,119043,Funiture,South,910.8,5
+acaf2257-81d1-4e9f-b4e0-7ef362115234,17/02/2020,Cassidy Davenport,Female,37,30693,Groceris,South,40.89,8
+2c40a5ee-cd53-410f-8c26-d4a3765bd84f,16/09/2020,Kevin Harris,Female,57,32801,Funiture,East,156.84,2
+a01bfe2c-be05-40f3-857c-a9997b07532f,20/10/2020,Steven Jones,Female,66,60502,Electronics,West,911.2,9
+b46661fa-b486-41fd-947c-0e65f014fdee,11/01/2024,Robert Humphrey,Male,59,40810,Entertainment,Central,347.93,2
+457ed3b4-cb1c-41a4-b484-99606671193e,20/01/2022,Michael Robinson,Male,49,132494,Health & Beauty,Central,252.33,6
+6c739a79-50cd-4666-aa1c-3339d5992055,24/04/2023,Sara Callahan,Male,23,30252,Groceris,South,475.7,9
+44e4244b-e6f3-43ba-8423-dc93e9f93128,08/06/2024,Hailey Singleton,Male,35,52763,Electronics,North,991.7,4
+94a687ed-b697-4a82-972b-526b43289720,27/06/2021,James Griffin,Male,22,146465,Clothing,North,744.89,3
+36e26329-7bff-42c3-9618-e0c56f243a00,29/11/2022,Ryan Vaughn,Male,32,58374,Health & Beauty,East,254.11,7
+c73004ab-66ab-4a45-a90b-f6e3f8503feb,28/02/2022,Tammy Lopez,Female,22,92747,Groceris,East,710.9,6
+3071c29c-65d7-4e55-a9c4-a08be6a41335,21/11/2022,Daniel Booth,Female,47,110911,Groceris,North,631.06,5
+bbfc9389-3517-4d36-8c42-02a4ad8bc4b9,11/10/2020,Kimberly Anderson,Male,25,101429,Health & Beauty,South,538.18,4
+47ec376c-53f5-4894-8803-532e7f4289c6,06/05/2020,Amy Jimenez,Male,66,132322,Clothing,South,875,9
+4d6e20a1-c6c4-4b46-91b4-af13f8c52925,07/10/2021,Jeff Bell,Female,22,36094,Funiture,Central,860.71,2
+74b69fa3-1882-4361-a762-39623edad51e,15/07/2023,Cindy Smith,Female,23,54914,Health & Beauty,West,302.09,2
+327c18fd-7fed-4833-a2e4-201c85f40d59,23/02/2023,Roger Everett,Male,26,142092,Funiture,North,819.59,8
+1331f959-ecfc-487a-8e53-0cc338105e47,03/07/2021,Christopher Keith,Female,36,74171,Clothing,Central,6228.72,1
+bd3c24dc-260d-4b9b-b655-ceff400bc427,10/09/2022,Monica Colon,Female,43,74609,Entertainment,Central,291.35,7
+ae53a05a-9eb1-436d-99ec-bce5b70c288e,05/07/2021,Jordan Robinson,Female,61,78341,Electronics,South,655.92,2
+4db8c68a-40fe-4ea9-ae91-40d2bf11a8d9,14/01/2024,Alan Nguyen,Female,32,35062,Groceris,South,860.93,7
+fa189693-8a6d-44ef-9f4b-67f335ecc867,16/09/2022,Brandon Thomas,Male,18,94409,Clothing,North,548.75,9
+3875b604-31fa-4719-b83b-c1a43d8d216a,05/07/2020,Heather Mcdowell,Male,21,39673,Funiture,South,265.81,2
+f5b7a6e0-a979-4bb2-adb8-0056386da8b1,21/09/2022,Lisa Gould,Female,34,48975,Clothing,North,241.27,3
+18c5eb38-3f8f-4ba7-836a-6488f5bcfbee,05/07/2023,Alexis Garcia,Female,63,45329,Clothing,North,636.49,8
+60430686-c7e9-46ff-a2af-84ee2e02ca5e,28/10/2021,Jesse Perez,Male,25,43631,Clothing,East,282.98,8
+59a08d35-a9ea-467d-8c39-40188d37da24,26/06/2022,Paul Stewart,Female,69,25658,Clothing,South,992.65,3
+0c1150e1-cb1b-402d-b67a-96162e805206,30/06/2020,Paula Wells,Male,34,122841,Groceris,South,594.87,9
+775d5f21-a1d7-406b-bbd6-9ae29cecf9de,15/10/2022,Justin Johnson,Female,42,100394,Entertainment,East,569.27,6
+ccc9a629-839a-454f-95c4-ce5d6a241445,25/11/2020,Gerald Massey,Female,26,33502,Electronics,East,289.6,8
