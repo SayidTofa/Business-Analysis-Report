@@ -13,7 +13,7 @@ The West region leads in both sales and income, while Central and South regions 
 ## Category Analysis: 
 Clothing and Furniture drive the highest sales, while Electronics and Groceries underperform, suggesting a need for category-specific strategies.
 
-~## Average Sales Value: 
+## Average Sales Value: 
 The average sales per transaction is 613.90, reflecting mid-tier pricing. Understanding consumer purchasing behavior can help refine pricing strategies.
 
 ## Customer Distribution: 
