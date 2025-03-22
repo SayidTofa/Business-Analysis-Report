@@ -1,13 +1,4 @@
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Business Objectives](#business-objectives)
-3. [Data Collection](#data-collection)
-4. [Methodology](#methodology)
-5. [Analysis & Findings](#analysis--findings)
-   - [Market Trends](#market-trends)
-   - [Financial Performance](#financial-performance)
-   - [Customer Insights](#customer-insights)
-6. [Recommendations](#recommendations)
+
    
 
 # Business-Analysis-Report
