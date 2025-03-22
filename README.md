@@ -1,5 +1,21 @@
 
-   
+   ## Table of Contents
+
+1. [Introduction](#introduction)  
+2. [Sales Trend Analysis](#sales-trend-analysis)  
+3. [Regional Performance](#regional-performance)  
+4. [Category Analysis](#category-analysis)  
+5. [Average Sales Value](#average-sales-value)  
+6. [Customer Distribution](#customer-distribution)  
+7. [Key Insights](#key-insights)  
+8. [Recommendations](#recommendations)  
+   - [Trend Forecasting](#trend-forecasting)  
+   - [Regional Strategy](#regional-strategy)  
+   - [Category Optimization](#category-optimization)  
+   - [Consumer Insights](#consumer-insights)  
+9. [Conclusion](#conclusion)  
+10. [References](#references)  
+
 
 # Business-Analysis-Report
 This sales dashboard tracks key metrics like total sales, income, quantity, and customer distribution. The time-series chart shows peak sales in 2021, followed by a decline. Regional performance highlights the West as the top market, while category insights indicate Clothing and Furniture lead in sales.
